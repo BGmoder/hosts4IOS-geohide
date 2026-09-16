@@ -1,3 +1,4 @@
+#!url=https://raw.githubusercontent.com/BGmoder/hosts4IOS-geohide
 #!name=GeoHide Hosts
 #!desc=Hosts configuration converted for Shadowrocket \[Host\] section
 \[Host\]
