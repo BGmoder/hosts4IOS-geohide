@@ -1,23 +1,14 @@
-#!url=https://raw.githubusercontent.com/BGmoder/hosts4IOS-geohide
-#!name=GeoHide Hosts
-#!desc=Hosts configuration converted for Shadowrocket \[Host\] section
+#!name=Hosts4IOS-geohide
+#!desc=Hosts file for unlocking and rejecting any kind trackers adopted for SR on IOS
 [Host]
-
-# geohide.ru: hosts file
-
-# Файл hosts RU от 11.09.2026 23:04:09
-
-# Регион серверов: RU
-
-# Работающие IP без прокси
-
+# Last Update: 11 September 2026
+# Bypass
 localhost = 127.0.0.1
 ip6-localhost = ::1
 ntc.party = 130.255.77.28
 dnstest.geohide.ru = 193.233.112.68
 
 # 37Signals
-
 37signals.com = 193.233.112.68
 www.37signals.com = 193.233.112.88
 basecamp.com = 193.233.112.88
@@ -26,59 +17,48 @@ basecampapi.com = 193.233.112.88
 www.basecampapi.com = 193.233.112.68
 
 # Aave
-
 aave.com = 193.233.112.68
 www.aave.com = 193.233.112.88
 
 # Adobe
-
 adobe.io = 193.233.112.88
 www.adobe.io = 193.233.112.68
 
 # Affinity Studio
-
 affinity.studio = 193.233.112.68
 www.affinity.studio = 193.233.112.88
 
 # Analog
-
 analog.com = 193.233.112.88
 www.analog.com = 193.233.112.68
 
 # AMD
-
 amd.com = 193.233.112.88
 www.amd.com = 193.233.112.68
 
 # Arkoselabs
-
 arkoselabs.com = 193.233.112.68
 www.arkoselabs.com = 193.233.112.88
 
 # Arduino
-
 arduino.cc = 193.233.112.68
 www.arduino.cc = 193.233.112.88
 
 # Arrow
-
 arrow.com = 193.233.112.68
 www.arrow.com = 193.233.112.88
 
 # Atlassian
-
 atlassian.com = 193.233.112.68
 www.atlassian.com = 193.233.112.68
 
 # Avast
-
 avast.com = 193.233.112.68
 www.avast.com = 193.233.112.88
 avast.ru = 193.233.112.68
 www.avast.ru = 193.233.112.88
 
 # Autodesk
-
 autocad.com = 193.233.112.68
 www.autocad.com = 193.233.112.88
 autodesk.ae = 193.233.112.68
@@ -101,7 +81,6 @@ web-platform.io = 193.233.112.68
 www.web-platform.io = 193.233.112.88
 
 # Badoo
-
 badoo.app = 193.233.112.68
 badoocdn.com = 193.233.112.88
 badoo.com = 193.233.112.68
@@ -110,32 +89,27 @@ consent.badoo.com = 193.233.112.68
 eu1.ecdn2.badoocdn.com = 193.233.112.68
 
 # Bestbuy
-
 bestbuy.com = 193.233.112.88
 www.bestbuy.com = 193.233.112.68
 streams.bestbuy.com = 193.233.112.68
 
 # Brave
-
 brave.com = 193.233.112.88
 www.brave.com = 193.233.112.68
 
 # Broadcom
-
 access.broadcom.com = 193.233.112.68
 knowledge.broadcom.com = 193.233.112.68
 support.broadcom.com = 193.233.112.88
 profile.broadcom.com = 193.233.112.88
 
 # Bike24
-
 bike-components.de = 193.233.112.88
 www.bike-components.de = 193.233.112.68
 bike24.com = 193.233.112.88
 www.bike24.com = 193.233.112.88
 
 # Canva
-
 canva.com = 193.233.112.68
 www.canva.com = 193.233.112.88
 content-management-files.canva.com = 193.233.112.88
@@ -146,24 +120,20 @@ canva.dev = 193.233.112.68
 www.canva.dev = 193.233.112.88
 
 # Camel
-
 camelai.com = 193.233.112.88
 www.camelai.com = 193.233.112.68
 stream.camelai.com = 193.233.112.88
 
 # Capcut
-
 capcut.com = 193.233.112.88
 www.capcut.com = 193.233.112.68
 
 # Cerebras
-
 api.cerebras.ai = 193.233.112.88
 cerebras.ai = 193.233.112.88
 www.cerebras.ai = 193.233.112.68
 
 # Chaos
-
 accounts.chaos.com = 193.233.112.88
 enscape3d.com = 193.233.112.88
 my.chaos.com = 193.233.112.88
@@ -171,7 +141,6 @@ ssooauth.chaos.com = 193.233.112.88
 www.chaos.com = 193.233.112.68
 
 # ChatGPT (OpenAI)
-
 chatgpt.com = 193.233.112.68
 www.chatgpt.com = 193.233.112.88
 chatgpt.site = 193.233.112.68
@@ -203,13 +172,11 @@ openai.com = 193.233.112.88
 www.openai.com = 193.233.112.68
 
 # Chess
-
 assets-configurator.chess.com = 193.233.112.68
 chess.com = 193.233.112.88
 www.chess.com = 193.233.112.68
 
 # Claude
-
 a-api.anthropic.com = 193.233.112.88
 a-cdn.anthropic.com = 193.233.112.68
 anthropic.com = 193.233.112.88
@@ -236,32 +203,26 @@ status.anthropic.com = 193.233.112.88
 support.anthropic.com = 193.233.112.68
 
 # Clickup
-
 clickup.com = 193.233.112.68
 www.clickup.com = 193.233.112.88
 
 # Coreweave
-
 coreweave.com = 193.233.112.68
 www.coreweave.com = 193.233.112.88
 
 # Corsair
-
 corsair.com = 193.233.112.68
 www.corsair.com = 193.233.112.88
 
 # Crunchyroll
-
 crunchyroll.com = 193.233.112.68
 www.crunchyroll.com = 193.233.112.88
 
 # Cummins
-
 cummins.com = 193.233.112.88
 www.cummins.com = 193.233.112.68
 
 # Cursor AI
-
 api2.cursor.sh = 193.233.112.88
 api3.cursor.sh = 193.233.112.68
 api4.cursor.sh = 193.233.112.88
@@ -283,7 +244,6 @@ us-eu.gcpp.cursor.sh = 193.233.112.68
 us-only.gcpp.cursor.sh = 193.233.112.68
 
 # DeepL
-
 deepl.app = 193.233.112.88
 www.deepl.app = 193.233.112.68
 api-free.deepl.com = 193.233.112.68
@@ -320,13 +280,11 @@ w.deepl.com = 193.233.112.68
 write-free.www.deepl.com = 193.233.112.68
 
 # Deezer
-
 deezer.com = 193.233.112.68
 www.deezer.com = 193.233.112.88
 payment.deezer.com = 193.233.112.68
 
 # Dell
-
 afcs.dellcdn.com = 193.233.112.68
 dellcdn.com = 193.233.112.88
 www.dellcdn.com = 193.233.112.68
@@ -337,21 +295,18 @@ i.dell.com = 193.233.112.88
 nexus.dell.com = 193.233.112.88
 
 # Dola
-
 cici.com = 193.233.112.88
 www.cici.com = 193.233.112.68
 dola.com = 193.233.112.88
 www.dola.com = 193.233.112.68
 
 # Digikey
-
 digikey.com = 193.233.112.88
 www.digikey.com = 193.233.112.68
 digikeyassets.com = 193.233.112.68
 www.digikeyassets.com = 193.233.112.88
 
 # Dyson
-
 dyson.com = 193.233.112.68
 www.dyson.com = 193.233.112.88
 dyson.de = 193.233.112.68
@@ -360,7 +315,6 @@ dyson.se = 193.233.112.88
 www.dyson.se = 193.233.112.68
 
 # ElevenLabs
-
 api.elevenlabs.io = 193.233.112.88
 api.us.elevenlabs.io = 193.233.112.88
 eleven-public-cdn.elevenlabs.io = 193.233.112.68
@@ -374,19 +328,16 @@ payload.elevenlabs.io = 193.233.112.88
 try.elevenlabs.io = 193.233.112.68
 
 # Elgato
-
 elgato.com = 193.233.112.88
 www.elgato.com = 193.233.112.68
 
 # Fitbit
-
 api.fitbit.com = 193.233.112.88
 fitbit-pa.googleapis.com = 193.233.112.88
 fitbit.google.com = 193.233.112.68
 fitbitvestibuleshim-pa.googleapis.com = 193.233.112.88
 
 # FMHY
-
 a-lemmy.fmhy.net = 193.233.112.88
 api.fmhy.net = 193.233.112.88
 cat.fmhy.net = 193.233.112.88
@@ -415,17 +366,14 @@ ui.fmhy.net = 193.233.112.88
 whoogle.fmhy.net = 193.233.112.68
 
 # Formula1
-
 formula1.com = 193.233.112.68
 www.formula1.com = 193.233.112.88
 
 # Framer
-
 framer.com = 193.233.112.68
 www.framer.com = 193.233.112.88
 
 # Game8
-
 game8.co = 193.233.112.68
 www.game8.co = 193.233.112.88
 game8.co.jp = 193.233.112.68
@@ -434,12 +382,10 @@ game8.jp = 193.233.112.68
 www.game8.jp = 193.233.112.88
 
 # Genspark AI
-
 genspark.ai = 193.233.112.88
 www.genspark.ai = 193.233.112.68
 
 # Google AI
-
 antigravity.google = 193.233.112.88
 www.antigravity.google = 193.233.112.68
 datastudio.google.com = 193.233.112.68
@@ -474,8 +420,8 @@ jules.google = 193.233.112.68
 jules.google.com = 193.233.112.88
 labs.google = 193.233.112.68
 labs.google.com = 193.233.112.68
-lookerstudio.google.com = 193.233.112.68
-makersuite.google.com = 193.233.112.68
+lookerstudio.google.com = 193.233.112.88
+makersuite.google.com = 193.233.112.88
 notebooklm.google = 193.233.112.88
 notebooklm.google.com = 193.233.112.68
 notebooklm-pa.googleapis.com = 193.233.112.88
@@ -493,7 +439,6 @@ waa-pa.clients6.google.com = 193.233.112.88
 webchannel-alkalimakersuite-pa.clients6.google.com = 193.233.112.68
 
 # Grok
-
 accounts.x.ai = 193.233.112.68
 api.x.ai = 193.233.112.68
 assets.grok.com = 193.233.112.88
@@ -506,31 +451,25 @@ x.ai = 193.233.112.68
 www.x.ai = 193.233.112.88
 
 # Guidedhacking
-
 guidedhacking.com = 193.233.112.68
 www.guidedhacking.com = 193.233.112.88
 
 # Guilded
-
 guilded.gg = 193.233.112.68
 www.guilded.gg = 193.233.112.88
 
 # Hume AI
-
 hume.ai = 193.233.112.88
 www.hume.ai = 193.233.112.68
 
 # Ikea
-
 ikea.com = 193.233.112.88
 www.ikea.com = 193.233.112.68
 
 # Imgur
-
 api.imgur.com = 193.233.112.88
 
 # Intel
-
 intel.com = 193.233.112.88
 www.intel.com = 193.233.112.68
 intel.de = 193.233.112.88
@@ -540,7 +479,6 @@ www.intel.se = 193.233.112.88
 geolocation.onetrust.com = 193.233.112.88
 
 # JetBrains
-
 datalore.jetbrains.com = 193.233.112.88
 plugins.jetbrains.com = 193.233.112.88
 download.jetbrains.com = 193.233.112.88
@@ -554,18 +492,16 @@ myjetbrains.com = 193.233.112.88
 www.myjetbrains.com = 193.233.112.68
 
 # Kaleido AI
-
 kaleido.ai = 193.233.112.88
 www.kaleido.ai = 193.233.112.68
 
 # Last.fm
-
 autodiscover.last.fm = 193.233.112.88
 jira.last.fm = 193.233.112.88
 last.fm = 193.233.112.88
 www.last.fm = 193.233.112.68
 s.last.fm = 193.233.112.68
-saa.last.fm = 193.233.112.68
+saa.last.fm = 193.233.112.88
 secure.last.fm = 193.233.112.68
 shop.last.fm = 193.233.112.88
 store.last.fm = 193.233.112.68
@@ -574,12 +510,10 @@ wiki.last.fm = 193.233.112.88
 ws.audioscrobbler.com = 193.233.112.88
 
 # Lego
-
 lego.com = 193.233.112.68
 www.lego.com = 193.233.112.88
 
 # Linear.app
-
 client-api.linear.app = 193.233.112.68
 constellation.linear.app = 193.233.112.88
 linear.app = 193.233.112.68
@@ -590,15 +524,13 @@ static.linear.app = 193.233.112.68
 uploads.linear.app = 193.233.112.68
 
 # Make
-
 make.com = 193.233.112.88
 www.make.com = 193.233.112.68
 
 # Makita
-
 makita.ca = 193.233.112.88
 www.makita.ca = 193.233.112.68
-makita.cl = 193.233.112.68
+makita.cl = 193.233.112.88
 www.makita.cl = 193.233.112.88
 makita.co.nz = 193.233.112.88
 www.makita.co.nz = 193.233.112.68
@@ -615,24 +547,20 @@ makitalatinamerica.com = 193.233.112.68
 www.makitalatinamerica.com = 193.233.112.88
 
 # Manus
-
 api.manus.im = 193.233.112.68
 files.manuscdn.com = 193.233.112.88
 manus.im = 193.233.112.68
 www.manus.im = 193.233.112.88
 
 # Meta AI
-
 meta.ai = 193.233.112.88
 www.meta.ai = 193.233.112.68
 
 # Microchip
-
 microchip.com = 193.233.112.88
 www.microchip.com = 193.233.112.68
 
 # Microsoft (Copilot, Designer, Xbox)
-
 auth.xboxlive.com = 193.233.112.68
 copilot.microsoft.com = 193.233.112.88
 designer.microsoft.com = 193.233.112.68
@@ -648,18 +576,15 @@ xgpuwebf2p.gssv-play-prod.xboxlive.com = 193.233.112.68
 xsts.auth.xboxlive.com = 193.233.112.68
 
 # Modivo
-
 img.modivo.cloud = 193.233.112.68
 modivo.pl = 193.233.112.68
 www.modivo.pl = 193.233.112.88
 
 # Monica
-
 monica.im = 193.233.112.88
 www.monica.im = 193.233.112.68
 
 # Mongodb
-
 api.blue.mongodb.com = 193.233.112.88
 evs.blue.mongodb.co = 193.233.112.68
 webassets.mongodb.com = 193.233.112.68
@@ -667,7 +592,6 @@ mongodb.com = 193.233.112.88
 www.mongodb.com = 193.233.112.68
 
 # Naukri
-
 aeronube.csm.naukri.com = 193.233.112.88
 apis.naukri.com = 193.233.112.68
 apply.naukri.com = 193.233.112.88
@@ -720,7 +644,7 @@ enterprise.naukri.com = 193.233.112.68
 feeds.naukri.com = 193.233.112.68
 fflms.naukri.com = 193.233.112.88
 files.naukri.com = 193.233.112.68
-filestg.naukri.com = 193.233.112.68
+filestg.naukri.com = 193.233.112.88
 filevalidation.naukri.com = 193.233.112.68
 fn-hackathon-ui.nc.naukri.com = 193.233.112.88
 freesearch.naukri.com = 193.233.112.88
@@ -781,7 +705,7 @@ nmail-one03-two14-one15-one93.naukri.com = 193.233.112.68
 nmail-one03-two14-one15-one94.naukri.com = 193.233.112.88
 nmail-one03-two14-one15-one95.naukri.com = 193.233.112.68
 nmail-one03-two14-one15-one96.naukri.com = 193.233.112.88
-nmail-one03-two14-one15-one97.naukri.com = 193.233.112.68
+nmail-one03-two14-one15-one97.naukri.com = 193.233.112.88
 nmail-one03-two14-one15-two13.naukri.com = 193.233.112.68
 nmail-one03-two14-one15-two14.naukri.com = 193.233.112.88
 nmail-one03-two14-one15-two15.naukri.com = 193.233.112.68
@@ -807,7 +731,7 @@ recruiterfaq.naukri.com = 193.233.112.68
 recruiters.naukri.com = 193.233.112.88
 recruitersurvey.naukri.com = 193.233.112.68
 recruiterzone.naukri.com = 193.233.112.68
-referral.naukri.com = 193.233.112.68
+referral.naukri.com = 193.233.112.88
 resbilling.naukri.com = 193.233.112.68
 resdex.base.naukri.com = 193.233.112.88
 resdex.naukri.com = 193.233.112.68
@@ -827,7 +751,7 @@ smtp.naukri.com = 193.233.112.88
 staging.assessment.nc.naukri.com = 193.233.112.88
 staging.contest.nc.naukri.com = 193.233.112.88
 staging.fn-hackathon-ui.nc.naukri.com = 193.233.112.68
-staging.onlinetest.nc.naukri.com = 193.233.112.68
+staging.onlinetest.nc.naukri.com = 193.233.112.88
 static.naukimg.com = 193.233.112.88
 static.naukri.com = 193.233.112.88
 static.staging.assessment.nc.naukri.com = 193.233.112.88
@@ -842,7 +766,7 @@ suggest.naukimg.com = 193.233.112.88
 suggest.naukri.com = 193.233.112.88
 suggestlg.naukimg.com = 193.233.112.68
 suggestlg.naukri.com = 193.233.112.68
-suggestor.naukri.com = 193.233.112.68
+suggestor.naukri.com = 193.233.112.88
 tableau.naukri.com = 193.233.112.88
 target.naukri.com = 193.233.112.68
 taxonomy-suggest.naukri.com = 193.233.112.88
@@ -864,7 +788,6 @@ www.naukimg.com = 193.233.112.68
 yahoo.naukri.com = 193.233.112.88
 
 # Notion
-
 app.notion.com = 193.233.112.88
 calendar.notion.com = 193.233.112.68
 calendar.notion.so = 193.233.112.88
@@ -874,39 +797,32 @@ notion.so = 193.233.112.88
 www.notion.so = 193.233.112.68
 
 # Nvidia
-
 developer.nvidia.com = 193.233.112.68
 
 # OpenCode AI
-
 opencode.ai = 193.233.112.88
 www.opencode.ai = 193.233.112.68
 
 # OpenRouter AI
-
 openrouter.ai = 193.233.112.88
 www.openrouter.ai = 193.233.112.68
 eu.openrouter.ai = 193.233.112.88
 us.openrouter.ai = 193.233.112.88
 
 # Oracle
-
 oracle.com = 193.233.112.88
 www.oracle.com = 193.233.112.68
 
 # Posthog
-
 eu.posthog.com = 193.233.112.88
 
 # Pump.fun
-
 pump.fun = 193.233.112.88
 frontend-api-v3.pump.fun = 193.233.112.68
 images.pump.fun = 193.233.112.88
 swap-api.pump.fun = 193.233.112.88
 
 # Reve
-
 app.reve.com = 193.233.112.68
 preview.reve.art = 193.233.112.88
 reve.art = 193.233.112.88
@@ -915,26 +831,22 @@ reve.com = 193.233.112.88
 www.reve.com = 193.233.112.68
 
 # Qwant
-
 qwant.com = 193.233.112.68
 www.qwant.com = 193.233.112.88
 
 # Scribd
-
 scribd.com = 193.233.112.68
 www.scribd.com = 193.233.112.88
 scribdassets.com = 193.233.112.88
 www.scribdassets.com = 193.233.112.68
 
 # SketchUp
-
 sketchup.com = 193.233.112.68
 www.sketchup.com = 193.233.112.88
 id.trimble.com = 193.233.112.88
 sketchup.trimble.com = 193.233.112.88
 
 # Spotify
-
 spotify.com = 193.233.112.88
 www.spotify.com = 193.233.112.68
 api.spotify.com = 193.233.112.88
@@ -953,7 +865,6 @@ scdn.co = 193.233.112.68
 www.scdn.co = 193.233.112.88
 
 # Strava
-
 blog.strava.com = 193.233.112.68
 www.blog.strava.com = 193.233.112.88
 business.strava.com = 193.233.112.68
@@ -987,12 +898,10 @@ tiles.strava.com = 193.233.112.88
 watch.samsung.strava.com = 193.233.112.88
 
 # Stumble Guys
-
 api.stumbleguys.com = 217.60.245.219
 matchmaking.stumbleguys.com = 217.60.245.219
 
 # Supercell
-
 game.brawlstarsgame.com = 62.233.36.83
 game.clashroyaleapp.com = 81.17.20.82
 game.squadbustersgame.com = 81.17.20.84
@@ -1009,43 +918,36 @@ security.id.supercell.com = 217.60.245.219
 store.supercell.com = 217.60.245.219
 
 # Tableau
-
 tableau.com = 193.233.112.88
 www.tableau.com = 193.233.112.68
 
 # Tailscale
-
 controlplane.tailscale.com = 193.233.112.68
 
 # TeamViewer
-
 download.teamviewer.com = 193.233.112.68
 dl.teamviewer.com = 193.233.112.68
 
 # Trae.ai
-
 api-sg-central.trae.ai = 193.233.112.88
 api.trae.ai = 193.233.112.68
 api16-normal-alisg.mchost.guru = 193.233.112.88
 trae-api-sg.mchost.guru = 193.233.112.88
 
 # Tria.ge
-
 tria.ge = 193.233.112.68
 www.tria.ge = 193.233.112.88
 
 # Truth Social
-
 www.truthsocial.com = 193.233.112.68
 truthsocial.com = 193.233.112.88
 static-assets-1.truthsocial.com = 193.233.112.88
 
 # Tuta
-
 app.test.tuta.com = 193.233.112.68
 app.tuta.com = 193.233.112.68
 mta-sts.test.tuta.com = 193.233.112.68
-mta-sts.tuta.com = 193.233.112.68
+mta-sts.tuta.com = 193.233.112.88
 pay.test.tuta.com = 193.233.112.88
 pay.tuta.com = 193.233.112.88
 status.tuta.com = 193.233.112.88
@@ -1067,22 +969,19 @@ w4.api.test.tuta.com = 193.233.112.68
 w5.api.test.tuta.com = 193.233.112.88
 w6.api.test.tuta.com = 193.233.112.68
 w7.api.test.tuta.com = 193.233.112.88
-w8.api.test.tuta.com = 193.233.112.68
+w8.api.test.tuta.com = 193.233.112.88
 w9.api.tuta.com = 193.233.112.88
 
 # Twitch
-
 gql.twitch.tv = 193.233.112.88
 usher.ttvnw.net = 193.233.112.88
 
 # Weather.com
-
 upsx.weather.com = 193.233.112.88
 weather.com = 193.233.112.88
 www.weather.com = 193.233.112.68
 
 # Weather Underground
-
 wunderground.com = 193.233.112.88
 www.wunderground.com = 193.233.112.68
 wund.com = 193.233.112.88
@@ -1093,11 +992,9 @@ wxug.com = 193.233.112.68
 www.wxug.com = 193.233.112.88
 
 # Web Archive
-
 web.archive.org = 193.233.112.68
 
 # Windsurf
-
 codeium.com = 193.233.112.88
 www.codeium.com = 193.233.112.68
 codeiumdata.com = 193.233.112.88
@@ -1111,24 +1008,19 @@ windsurf-telemetry.codeium.com = 193.233.112.88
 windsurf.com = 193.233.112.88
 
 # Wix
-
 users.wix.com = 193.233.112.88
 
 # WorkOS
-
 api.workos.com = 193.233.112.68
 
 # Xerox
-
 xerox.com = 193.233.112.88
 www.xerox.com = 193.233.112.68
 
 # ZeroSSL
-
 app.zerossl.com = 193.233.112.68
 
 # Остальное
-
 api.cdnlibs.org = 193.233.112.88
 builds.parsec.app = 193.233.112.68
 platform.parallel.ai = 193.233.112.68
@@ -1249,7 +1141,7 @@ romsgames.net = 193.233.112.88
 www.romsgames.net = 193.233.112.68
 se.com = 193.233.112.88
 www.se.com = 193.233.112.68
-securitytrails.com = 193.233.112.68
+securitytrails.com = 193.233.112.88
 www.securitytrails.com = 193.233.112.88
 singlekey-id.com = 193.233.112.68
 www.singlekey-id.com = 193.233.112.88
@@ -1273,17 +1165,17 @@ uainvest.com.ua = 193.233.112.68
 www.uainvest.com.ua = 193.233.112.88
 ultimaker.com = 193.233.112.88
 www.ultimaker.com = 193.233.112.68
-unscreen.com = 193.233.112.68
+unscreen.com = 193.233.112.88
 www.unscreen.com = 193.233.112.88
-vipvera.com = 193.233.112.68
+vipvera.com = 193.233.112.88
 www.vipvera.com = 193.233.112.88
 wbagora.com = 193.233.112.68
 www.wbagora.com = 193.233.112.88
 wbgames.com = 193.233.112.88
-www.wbgames.com = 193.233.112.68
+www.wbgames.com = 193.233.112.88
 weborama.nl = 193.233.112.68
 www.weborama.nl = 193.233.112.88
-whimsical.com = 193.233.112.68
+whimsical.com = 193.233.112.88
 www.whimsical.com = 193.233.112.88
 windguru.cz = 193.233.112.68
 www.windguru.cz = 193.233.112.88
@@ -1292,8 +1184,8 @@ www.wise.com = 193.233.112.68
 www.cgtrader.com = 193.233.112.68
 xiaomi.eu = 193.233.112.88
 www.xiaomi.eu = 193.233.112.68
-yeggi.com = 193.233.112.68
-www.yeggi.com = 193.233.112.88
+yeggi.com = 193.233.112.88
+www.yeggi.com = 193.233.112.68
 yupp.ai = 193.233.112.68
 www.yupp.ai = 193.233.112.88
 zapier-deployment.com = 193.233.112.68
