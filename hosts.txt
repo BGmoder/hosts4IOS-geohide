@@ -1,1245 +1,1305 @@
-#!name=Hosts4IOS
-#!desc=Hosts file for unlocking and rejecting any kind trackers adopted for SR on IOS
-[Host]
-# Last Update: 15 June 2026
-# Bypass
+#!name=GeoHide Hosts
+#!desc=Hosts configuration converted for Shadowrocket \[Host\] section
+\[Host\]
+
+# geohide.ru: hosts file
+
+# Файл hosts RU от 11.09.2026 23:04:09
+
+# Регион серверов: RU
+
+# Работающие IP без прокси
+
 localhost = 127.0.0.1
 ip6-localhost = ::1
 ntc.party = 130.255.77.28
-b.i.instagram.com = 157.240.0.174
-help.instagram.com = 157.240.0.174
-instagram.com = 157.240.0.174
-www.instagram.com = 157.240.0.174
-api.instagram.com = 57.144.244.192
-graph.instagram.com = 57.144.244.192
-i.instagram.com = 57.144.244.192
-instagram.c10r.facebook.com = 57.144.244.192
-static.cdninstagram.com = 57.144.244.192
-chat-e2ee-mini.c10r.facebook.com = 31.13.72.33
-chat-e2ee-mini.facebook.com = 57.144.244.8
-z-p42-chat-e2ee-ig.facebook.com = 57.144.244.34
-rutor.info = 172.64.32.155
-rutor.is = 172.64.32.155
-d.rutor.info = 172.64.33.155
-d.rutor.is = 172.64.33.155
+dnstest.geohide.ru = 193.233.112.68
+
+# 37Signals
+
+37signals.com = 193.233.112.68
+www.37signals.com = 193.233.112.88
+basecamp.com = 193.233.112.88
+www.basecamp.com = 193.233.112.68
+basecampapi.com = 193.233.112.88
+www.basecampapi.com = 193.233.112.68
+
+# Aave
+
+aave.com = 193.233.112.68
+www.aave.com = 193.233.112.88
+
+# Adobe
+
+adobe.io = 193.233.112.88
+www.adobe.io = 193.233.112.68
+
+# Affinity Studio
+
+affinity.studio = 193.233.112.68
+www.affinity.studio = 193.233.112.88
+
+# Analog
+
+analog.com = 193.233.112.88
+www.analog.com = 193.233.112.68
 
 # AMD
-amd.com = 45.155.204.190
-www.amd.com = 45.155.204.190
+
+amd.com = 193.233.112.88
+www.amd.com = 193.233.112.68
+
+# Arkoselabs
+
+arkoselabs.com = 193.233.112.68
+www.arkoselabs.com = 193.233.112.88
+
+# Arduino
+
+arduino.cc = 193.233.112.68
+www.arduino.cc = 193.233.112.88
+
+# Arrow
+
+arrow.com = 193.233.112.68
+www.arrow.com = 193.233.112.88
+
+# Atlassian
+
+atlassian.com = 193.233.112.68
+www.atlassian.com = 193.233.112.68
+
+# Avast
+
+avast.com = 193.233.112.68
+www.avast.com = 193.233.112.88
+avast.ru = 193.233.112.68
+www.avast.ru = 193.233.112.88
 
 # Autodesk
-accounts.autodesk.com = 45.155.204.190
-www.autodesk.com = 45.155.204.190
+
+autocad.com = 193.233.112.68
+www.autocad.com = 193.233.112.88
+autodesk.ae = 193.233.112.68
+www.autodesk.ae = 193.233.112.88
+autodesk.be = 193.233.112.88
+www.autodesk.be = 193.233.112.68
+autodesk.com = 193.233.112.88
+www.autodesk.com = 193.233.112.68
+autodesk.eu = 193.233.112.68
+www.autodesk.eu = 193.233.112.88
+autodesk.net = 193.233.112.88
+www.autodesk.net = 193.233.112.68
+autodesk360.com = 193.233.112.68
+www.autodesk360.com = 193.233.112.88
+pubnubapi.com = 193.233.112.88
+www.pubnubapi.com = 193.233.112.68
+qualtrics.com = 193.233.112.88
+www.qualtrics.com = 193.233.112.68
+web-platform.io = 193.233.112.68
+www.web-platform.io = 193.233.112.88
 
 # Badoo
-badoo.app = 45.155.204.190
-badoocdn.com = 45.155.204.190
-badoo.com = 45.155.204.190
-consent.badoo.com = 45.155.204.190
-eu1.ecdn2.badoocdn.com = 45.155.204.190
-www.badoo.com = 45.155.204.190
+
+badoo.app = 193.233.112.68
+badoocdn.com = 193.233.112.88
+badoo.com = 193.233.112.68
+www.badoo.com = 193.233.112.88
+consent.badoo.com = 193.233.112.68
+eu1.ecdn2.badoocdn.com = 193.233.112.68
+
+# Bestbuy
+
+bestbuy.com = 193.233.112.88
+www.bestbuy.com = 193.233.112.68
+streams.bestbuy.com = 193.233.112.68
+
+# Brave
+
+brave.com = 193.233.112.88
+www.brave.com = 193.233.112.68
 
 # Broadcom
-access.broadcom.com = 45.155.204.190
-knowledge.broadcom.com = 45.155.204.190
-support.broadcom.com = 45.155.204.190
-profile.broadcom.com = 45.155.204.190
+
+access.broadcom.com = 193.233.112.68
+knowledge.broadcom.com = 193.233.112.68
+support.broadcom.com = 193.233.112.88
+profile.broadcom.com = 193.233.112.88
+
+# Bike24
+
+bike-components.de = 193.233.112.88
+www.bike-components.de = 193.233.112.68
+bike24.com = 193.233.112.88
+www.bike24.com = 193.233.112.88
 
 # Canva
-canva.com = 45.155.204.190
-content-management-files.canva.com = 45.155.204.190
-static.canva.com = 45.155.204.190
-www.canva.com = 45.155.204.190
+
+canva.com = 193.233.112.68
+www.canva.com = 193.233.112.88
+content-management-files.canva.com = 193.233.112.88
+static.canva.com = 193.233.112.68
+canva-apps.com = 193.233.112.88
+www.canva-apps.com = 193.233.112.68
+canva.dev = 193.233.112.68
+www.canva.dev = 193.233.112.88
+
+# Camel
+
+camelai.com = 193.233.112.88
+www.camelai.com = 193.233.112.68
+stream.camelai.com = 193.233.112.88
+
+# Capcut
+
+capcut.com = 193.233.112.88
+www.capcut.com = 193.233.112.68
+
+# Cerebras
+
+api.cerebras.ai = 193.233.112.88
+cerebras.ai = 193.233.112.88
+www.cerebras.ai = 193.233.112.68
+
+# Chaos
+
+accounts.chaos.com = 193.233.112.88
+enscape3d.com = 193.233.112.88
+my.chaos.com = 193.233.112.88
+ssooauth.chaos.com = 193.233.112.88
+www.chaos.com = 193.233.112.68
 
 # ChatGPT (OpenAI)
-ab.chatgpt.com = 45.155.204.190
-android.chat.openai.com = 45.155.204.190
-api.chatgpt.com = 45.155.204.190
-api.openai.com = 45.155.204.190
-arena.openai.com = 45.155.204.190
-auth.openai.com = 45.155.204.190
-auth0.openai.com = 45.155.204.190
-beta.api.openai.com = 45.155.204.190
-beta.openai.com = 45.155.204.190
-blog.openai.com = 45.155.204.190
-cdn.auth0.com = 45.155.204.190
-cdn.oaistatic.com = 45.155.204.190
-cdn.openai.com = 45.155.204.190
-cdn.platform.openai.com = 45.155.204.190
-chat.openai.com = 45.155.204.190
-chatgpt-async-webps-prod-centralus-0.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-centralus-1.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-centralus-2.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-centralus-3.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-centralus-4.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-centralus-5.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-eastus-0-9e29c0310a29a59b.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-eastus-0.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-eastus-1-9e29c0310a29a59b.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-eastus-1.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-eastus-2-9e29c0310a29a59b.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-eastus-2.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-eastus-3-9e29c0310a29a59b.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-eastus-3.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-eastus-4-9e29c0310a29a59b.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-eastus-4.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-eastus-5-9e29c0310a29a59b.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-eastus-5.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-southcentralus-0.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-southcentralus-1.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-southcentralus-2.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-southcentralus-3.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-southcentralus-4.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-southcentralus-5.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-westus-0-9e29c0310a29a59b.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-westus-0.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-westus-1-9e29c0310a29a59b.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-westus-1.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-westus-2-9e29c0310a29a59b.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-westus-2.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-westus-3-9e29c0310a29a59b.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-westus-3.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-westus-4-9e29c0310a29a59b.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-westus-4.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-westus-5-9e29c0310a29a59b.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-prod-westus-5.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-staging-eastus-0.chatgpt.com = 45.155.204.190
-chatgpt-async-webps-staging-southcentralus-0.chatgpt.com = 45.155.204.190
-chatgpt.com = 45.155.204.190
-community.openai.com = 45.155.204.190
-contest.openai.com = 45.155.204.190
-d.docs.live.net = 45.155.204.190
-debate-game.openai.com = 45.155.204.190
-developers.openai.com = 45.155.204.190
-discuss.openai.com = 45.155.204.190
-edge.chatgpt.com = 45.155.204.190
-files.oaiusercontent.com = 45.155.204.190
-gov-demo.chatgpt.com = 45.155.204.190
-gpt3-openai.com = 45.155.204.190
-gym.openai.com = 45.155.204.190
-help.openai.com = 45.155.204.190
-hooks-staging.chatgpt.com = 45.155.204.190
-ios.chat.openai.com = 45.155.204.190
-jukebox.openai.com = 45.155.204.190
-labs.openai.com = 45.155.204.190
-microscope.openai.com = 45.155.204.190
-mobile.events.data.microsoft.com = 45.155.204.190
-oaistatic.com = 45.155.204.190
-ogimg.chatgpt.com = 45.155.204.190
-openai.com = 45.155.204.190
-openai.fund = 45.155.204.190
-openai.org = 45.155.204.190
-operator.chatgpt.com = 45.155.204.190
-platform.api.openai.com = 45.155.204.190
-platform.openai.com = 45.155.204.190
-privacy-pass-issuer.api.chatgpt.com = 45.155.204.190
-realtime.chatgpt.com = 45.155.204.190
-search.chatgpt.com = 45.155.204.190
-sdmntpritalynorth.oaiusercontent.com = 45.155.204.190
-sdmntprnortheu.oaiusercontent.com = 45.155.204.190
-sdmntprpolandcentral.oaiusercontent.com = 45.155.204.190
-sdmntprukwest.oaiusercontent.com = 45.155.204.190
-sora.chatgpt.com = 45.155.204.190
-spinningup.openai.com = 45.155.204.190
-tcr9i.chat.openai.com = 45.155.204.190
-universe.openai.com = 45.155.204.190
-videos.openai.com = 45.155.204.190
-webrtc-staging.chatgpt.com = 45.155.204.190
-webrtc.chatgpt.com = 45.155.204.190
-ws.chatgpt.com = 45.155.204.190
-www.chatgpt.com = 45.155.204.190
-www.openai.com = 45.155.204.190
+
+chatgpt.com = 193.233.112.68
+www.chatgpt.com = 193.233.112.88
+chatgpt.site = 193.233.112.68
+www.chatgpt.site = 193.233.112.88
+ab.chatgpt.com = 193.233.112.88
+auth.openai.com = 193.233.112.88
+auth0.openai.com = 193.233.112.88
+platform.openai.com = 193.233.112.68
+cdn.oaistatic.com = 193.233.112.88
+files.oaiusercontent.com = 193.233.112.88
+tcr9i.chat.openai.com = 193.233.112.68
+webrtc.chatgpt.com = 193.233.112.88
+android.chat.openai.com = 193.233.112.68
+api.openai.com = 193.233.112.88
+operator.chatgpt.com = 193.233.112.68
+videos.openai.com = 193.233.112.88
+ios.chat.openai.com = 193.233.112.68
+cdn.platform.openai.com = 193.233.112.88
+developers.openai.com = 193.233.112.68
+sdmntprukwest.oaiusercontent.com = 193.233.112.88
+sdmntpritalynorth.oaiusercontent.com = 193.233.112.68
+sdmntprpolandcentral.oaiusercontent.com = 193.233.112.88
+sdmntprnortheu.oaiusercontent.com = 193.233.112.88
+oaiusercontent.com = 193.233.112.68
+www.oaiusercontent.com = 193.233.112.88
+oaistatic.com = 193.233.112.68
+www.oaistatic.com = 193.233.112.88
+openai.com = 193.233.112.88
+www.openai.com = 193.233.112.68
 
 # Chess
-assets-configurator.chess.com = 45.155.204.190
-chess.com = 45.155.204.190
-www.chess.com = 45.155.204.190
+
+assets-configurator.chess.com = 193.233.112.68
+chess.com = 193.233.112.88
+www.chess.com = 193.233.112.68
 
 # Claude
-a-api.anthropic.com = 45.155.204.190
-a-cdn.anthropic.com = 45.155.204.190
-anthropic.com = 45.155.204.190
-api.anthropic.com = 45.155.204.190
-api.claude.ai = 45.155.204.190
-api.claude.com = 45.155.204.190
-api.console.anthropic.com = 45.155.204.190
-assets-proxy.anthropic.com = 45.155.204.190
-auth.anthropic.com = 45.155.204.190
-claude.ai = 45.155.204.190
-claude.com = 45.155.204.190
-claudemcpclient.com = 45.155.204.190
-console.anthropic.com = 45.155.204.190
-downloads.claude.ai = 45.155.204.190
-platform.claude.ai = 45.155.204.190
-platform.claude.com = 45.155.204.190
-s-cdn.anthropic.com = 45.155.204.190
-statsig.anthropic.com = 45.155.204.190
-status.anthropic.com = 45.155.204.190
-support.anthropic.com = 45.155.204.190
-www.anthropic.com = 45.155.204.190
-www.claude.ai = 45.155.204.190
-www.claude.com = 45.155.204.190
-www.claudemcpclient.com = 45.155.204.190
+
+a-api.anthropic.com = 193.233.112.88
+a-cdn.anthropic.com = 193.233.112.68
+anthropic.com = 193.233.112.88
+www.anthropic.com = 193.233.112.68
+api.anthropic.com = 193.233.112.88
+api.claude.ai = 193.233.112.68
+api.claude.com = 193.233.112.88
+api.console.anthropic.com = 193.233.112.68
+assets-proxy.anthropic.com = 193.233.112.88
+auth.anthropic.com = 193.233.112.88
+claude.ai = 193.233.112.68
+www.claude.ai = 193.233.112.88
+claude.com = 193.233.112.88
+www.claude.com = 193.233.112.68
+claudemcpclient.com = 193.233.112.68
+www.claudemcpclient.com = 193.233.112.88
+console.anthropic.com = 193.233.112.68
+downloads.claude.ai = 193.233.112.88
+platform.claude.ai = 193.233.112.88
+platform.claude.com = 193.233.112.68
+s-cdn.anthropic.com = 193.233.112.68
+statsig.anthropic.com = 193.233.112.68
+status.anthropic.com = 193.233.112.88
+support.anthropic.com = 193.233.112.68
+
+# Clickup
+
+clickup.com = 193.233.112.68
+www.clickup.com = 193.233.112.88
+
+# Coreweave
+
+coreweave.com = 193.233.112.68
+www.coreweave.com = 193.233.112.88
+
+# Corsair
+
+corsair.com = 193.233.112.68
+www.corsair.com = 193.233.112.88
+
+# Crunchyroll
+
+crunchyroll.com = 193.233.112.68
+www.crunchyroll.com = 193.233.112.88
+
+# Cummins
+
+cummins.com = 193.233.112.88
+www.cummins.com = 193.233.112.68
+
+# Cursor AI
+
+api2.cursor.sh = 193.233.112.88
+api3.cursor.sh = 193.233.112.68
+api4.cursor.sh = 193.233.112.88
+api5.cursor.sh = 193.233.112.68
+authenticate.cursor.sh = 193.233.112.68
+authenticator.cursor.sh = 193.233.112.68
+cursor.com = 193.233.112.88
+www.cursor.com = 193.233.112.68
+download.todesktop.com = 193.233.112.68
+downloads.cursor.com = 193.233.112.68
+marketplace.cursorapi.com = 193.233.112.68
+repo42.cursor.sh = 193.233.112.88
+cursor-cdn.com = 193.233.112.88
+www.cursor-cdn.com = 193.233.112.68
+cursorvm.com = 193.233.112.68
+www.cursorvm.com = 193.233.112.88
+us-asia.gcpp.cursor.sh = 193.233.112.68
+us-eu.gcpp.cursor.sh = 193.233.112.68
+us-only.gcpp.cursor.sh = 193.233.112.68
 
 # DeepL
-api-free.deepl.com = 45.155.204.190
-api.deepl.com = 45.155.204.190
-auth.deepl.com = 45.155.204.190
-backend.deepl.com = 45.155.204.190
-checkout.www.deepl.com = 45.155.204.190
-clearance.deepl.com = 45.155.204.190
-community-auth.deepl.com = 45.155.204.190
-deepl.com = 45.155.204.190
-developers.deepl.com = 45.155.204.190
-dict-audio.deepl.com = 45.155.204.190
-dict.deepl.com = 45.155.204.190
-errortracking.deepl.com = 45.155.204.190
-experimentation-grpc.deepl.com = 45.155.204.190
-experimentation.deepl.com = 45.155.204.190
-gtm.deepl.com = 45.155.204.190
-home.deepl.com = 45.155.204.190
-hs.deepl.com = 45.155.204.190
-internal.deepl.com = 45.155.204.190
-ita-free.app.deepl.com = 45.155.204.190
-ita-free.www.deepl.com = 45.155.204.190
-jobs.deepl.com = 45.155.204.190
-login-wall.deepl.com = 45.155.204.190
-oneshot-free.www.deepl.com = 45.155.204.190
-ott.deepl.com = 45.155.204.190
-s.deepl.com = 45.155.204.190
-shield.deepl.com = 45.155.204.190
-sl.deepl.com = 45.155.204.190
-static.deepl.com = 45.155.204.190
-support.deepl.com = 45.155.204.190
-w.deepl.com = 45.155.204.190
-write-free.www.deepl.com = 45.155.204.190
-www.deepl.com = 45.155.204.190
+
+deepl.app = 193.233.112.88
+www.deepl.app = 193.233.112.68
+api-free.deepl.com = 193.233.112.68
+api.deepl.com = 193.233.112.88
+auth.deepl.com = 193.233.112.88
+backend.deepl.com = 193.233.112.88
+checkout.www.deepl.com = 193.233.112.68
+clearance.deepl.com = 193.233.112.88
+community-auth.deepl.com = 193.233.112.88
+deepl.com = 193.233.112.88
+www.deepl.com = 193.233.112.68
+developers.deepl.com = 193.233.112.68
+dict-audio.deepl.com = 193.233.112.68
+dict.deepl.com = 193.233.112.88
+errortracking.deepl.com = 193.233.112.68
+experimentation-grpc.deepl.com = 193.233.112.68
+experimentation.deepl.com = 193.233.112.88
+gtm.deepl.com = 193.233.112.88
+home.deepl.com = 193.233.112.68
+hs.deepl.com = 193.233.112.68
+internal.deepl.com = 193.233.112.68
+ita-free.app.deepl.com = 193.233.112.88
+ita-free.www.deepl.com = 193.233.112.88
+jobs.deepl.com = 193.233.112.88
+login-wall.deepl.com = 193.233.112.88
+oneshot-free.www.deepl.com = 193.233.112.88
+ott.deepl.com = 193.233.112.68
+s.deepl.com = 193.233.112.68
+shield.deepl.com = 193.233.112.68
+sl.deepl.com = 193.233.112.68
+static.deepl.com = 193.233.112.88
+support.deepl.com = 193.233.112.68
+w.deepl.com = 193.233.112.68
+write-free.www.deepl.com = 193.233.112.68
 
 # Deezer
-aaa.deezer.com = 45.155.204.190
-account.deezer.com = 45.155.204.190
-activation.deezer.com = 45.155.204.190
-affiliate.deezer.com = 45.155.204.190
-ansync.deezer.com = 45.155.204.190
-api-websub.deezer.com = 45.155.204.190
-api.deezer.com = 45.155.204.190
-auth.deezer.com = 45.155.204.190
-backstage.deezer.com = 45.155.204.190
-bo-partners.deezer.com = 45.155.204.190
-bo-playlist.deezer.com = 45.155.204.190
-connect.deezer.com = 45.155.204.190
-creators.deezer.com = 45.155.204.190
-creatorsupport.deezer.com = 45.155.204.190
-curl-prod.deezer.com = 45.155.204.190
-dalida.deezer.com = 45.155.204.190
-dataconnect.deezer.com = 45.155.204.190
-deezer.com = 45.155.204.190
-dev-gcast.deezer.com = 45.155.204.190
-discovery.deezer.com = 45.155.204.190
-drp-auth.deezer.com = 45.155.204.190
-games-servers.deezer.com = 45.155.204.190
-games.deezer.com = 45.155.204.190
-gcast.deezer.com = 45.155.204.190
-handshake.deezer.com = 45.155.204.190
-hhe.deezer.com = 45.155.204.190
-homepod.deezer.com = 45.155.204.190
-images.deezer.com = 45.155.204.190
-inward.deezer.com = 45.155.204.190
-jobs.deezer.com = 45.155.204.190
-m.deezer.com = 45.155.204.190
-media.deezer.com = 45.155.204.190
-mydeezerstory.deezer.com = 45.155.204.190
-mydeezeryear.deezer.com = 45.155.204.190
-oauth.deezer.com = 45.155.204.190
-papi.deezer.com = 45.155.204.190
-partners.deezer.com = 45.155.204.190
-pay.deezer.com = 45.155.204.190
-payment.deezer.com = 45.155.204.190
-pipe.deezer.com = 45.155.204.190
-platform.deezer.com = 45.155.204.190
-plumbers.deezer.com = 45.155.204.190
-podcasters.deezer.com = 45.155.204.190
-preprod-preview.deezer.com = 45.155.204.190
-preprod-stream.deezer.com = 45.155.204.190
-preview.deezer.com = 45.155.204.190
-queue.deezer.com = 45.155.204.190
-research.deezer.com = 45.155.204.190
-shaker.deezer.com = 45.155.204.190
-sonos-queue-bridge.deezer.com = 45.155.204.190
-spleeterpro.deezer.com = 45.155.204.190
-stream.deezer.com = 45.155.204.190
-support.deezer.com = 45.155.204.190
-tv2.deezer.com = 45.155.204.190
-vdp.deezer.com = 45.155.204.190
-webviews.deezer.com = 45.155.204.190
-weight-images.deezer.com = 45.155.204.190
-wellbeing.deezer.com = 45.155.204.190
-widget.deezer.com = 45.155.204.190
-ws.deezer.com = 45.155.204.190
-www.deezer.com = 45.155.204.190
-zen.deezer.com = 45.155.204.190
+
+deezer.com = 193.233.112.68
+www.deezer.com = 193.233.112.88
+payment.deezer.com = 193.233.112.68
 
 # Dell
-afcs.dellcdn.com = 45.155.204.190
-dds.dell.com = 45.155.204.190
-dell.com = 45.155.204.190
-i.dell.com = 45.155.204.190
-nexus.dell.com = 45.155.204.190
-www.dell.com = 45.155.204.190
+
+afcs.dellcdn.com = 193.233.112.68
+dellcdn.com = 193.233.112.88
+www.dellcdn.com = 193.233.112.68
+dds.dell.com = 193.233.112.88
+dell.com = 193.233.112.68
+www.dell.com = 193.233.112.88
+i.dell.com = 193.233.112.88
+nexus.dell.com = 193.233.112.88
+
+# Dola
+
+cici.com = 193.233.112.88
+www.cici.com = 193.233.112.68
+dola.com = 193.233.112.88
+www.dola.com = 193.233.112.68
+
+# Digikey
+
+digikey.com = 193.233.112.88
+www.digikey.com = 193.233.112.68
+digikeyassets.com = 193.233.112.68
+www.digikeyassets.com = 193.233.112.88
 
 # Dyson
-www.dyson.com = 45.155.204.190
-www.dyson.de = 45.155.204.190
-www.dyson.se = 45.155.204.190
+
+dyson.com = 193.233.112.68
+www.dyson.com = 193.233.112.88
+dyson.de = 193.233.112.68
+www.dyson.de = 193.233.112.88
+dyson.se = 193.233.112.88
+www.dyson.se = 193.233.112.68
 
 # ElevenLabs
-api.elevenlabs.io = 45.155.204.190
-api.us.elevenlabs.io = 45.155.204.190
-eleven-public-cdn.elevenlabs.io = 45.155.204.190
-elevenlabs.io = 45.155.204.190
-elevenreader.io = 45.155.204.190
-help.elevenlabs.io = 45.155.204.190
-payload.elevenlabs.io = 45.155.204.190
-try.elevenlabs.io = 45.155.204.190
-www.elevenlabs.io = 45.155.204.190
+
+api.elevenlabs.io = 193.233.112.88
+api.us.elevenlabs.io = 193.233.112.88
+eleven-public-cdn.elevenlabs.io = 193.233.112.68
+elevenlabs.io = 193.233.112.88
+www.elevenlabs.io = 193.233.112.68
+elevenmusic.io = 193.233.112.68
+www.elevenmusic.io = 193.233.112.88
+elevenreader.io = 193.233.112.68
+help.elevenlabs.io = 193.233.112.68
+payload.elevenlabs.io = 193.233.112.88
+try.elevenlabs.io = 193.233.112.68
 
 # Elgato
-www.elgato.com = 45.155.204.190
+
+elgato.com = 193.233.112.88
+www.elgato.com = 193.233.112.68
 
 # Fitbit
-api.fitbit.com = 45.155.204.190
-fitbit-pa.googleapis.com = 45.155.204.190
-fitbit.google.com = 45.155.204.190
-fitbitvestibuleshim-pa.googleapis.com = 45.155.204.190
+
+api.fitbit.com = 193.233.112.88
+fitbit-pa.googleapis.com = 193.233.112.88
+fitbit.google.com = 193.233.112.68
+fitbitvestibuleshim-pa.googleapis.com = 193.233.112.88
 
 # FMHY
-a-lemmy.fmhy.net = 45.155.204.190
-api.fmhy.net = 45.155.204.190
-cat.fmhy.net = 45.155.204.190
-dynmap.fmhy.net = 45.155.204.190
-fmhy.lol = 45.155.204.190
-fmhy.net = 45.155.204.190
-guides.fmhy.lol = 45.155.204.190
-i.fmhy.net = 45.155.204.190
-lemmy.fmhy.net = 45.155.204.190
-m-lemmy.fmhy.net = 45.155.204.190
-old-lemmy.fmhy.net = 45.155.204.190
-old.fmhy.net = 45.155.204.190
-old.lemmy.fmhy.net = 45.155.204.190
-op.fmhy.net = 45.155.204.190
-p-lemmy.fmhy.net = 45.155.204.190
-paste.fmhy.net = 45.155.204.190
-pastes.fmhy.net = 45.155.204.190
-redlib.fmhy.net = 45.155.204.190
-searx.fmhy.net = 45.155.204.190
-stats.fmhy.net = 45.155.204.190
-status.fmhy.net = 45.155.204.190
-sub.whoogle.fmhy.net = 45.155.204.190
-ui.fmhy.net = 45.155.204.190
-whoogle.fmhy.net = 45.155.204.190
-www.fmhy.lol = 45.155.204.190
-www.fmhy.net = 45.155.204.190
+
+a-lemmy.fmhy.net = 193.233.112.88
+api.fmhy.net = 193.233.112.88
+cat.fmhy.net = 193.233.112.88
+dynmap.fmhy.net = 193.233.112.68
+fmhy.lol = 193.233.112.88
+www.fmhy.lol = 193.233.112.68
+fmhy.net = 193.233.112.88
+www.fmhy.net = 193.233.112.68
+guides.fmhy.lol = 193.233.112.68
+i.fmhy.net = 193.233.112.68
+lemmy.fmhy.net = 193.233.112.88
+m-lemmy.fmhy.net = 193.233.112.88
+old-lemmy.fmhy.net = 193.233.112.88
+old.fmhy.net = 193.233.112.68
+old.lemmy.fmhy.net = 193.233.112.68
+op.fmhy.net = 193.233.112.68
+p-lemmy.fmhy.net = 193.233.112.68
+paste.fmhy.net = 193.233.112.68
+pastes.fmhy.net = 193.233.112.88
+redlib.fmhy.net = 193.233.112.88
+searx.fmhy.net = 193.233.112.68
+stats.fmhy.net = 193.233.112.68
+status.fmhy.net = 193.233.112.88
+sub.whoogle.fmhy.net = 193.233.112.68
+ui.fmhy.net = 193.233.112.88
+whoogle.fmhy.net = 193.233.112.68
+
+# Formula1
+
+formula1.com = 193.233.112.68
+www.formula1.com = 193.233.112.88
 
 # Framer
-framer.com = 45.155.204.190
-www.framer.com = 45.155.204.190
+
+framer.com = 193.233.112.68
+www.framer.com = 193.233.112.88
+
+# Game8
+
+game8.co = 193.233.112.68
+www.game8.co = 193.233.112.88
+game8.co.jp = 193.233.112.68
+www.game8.co.jp = 193.233.112.88
+game8.jp = 193.233.112.68
+www.game8.jp = 193.233.112.88
+
+# Genspark AI
+
+genspark.ai = 193.233.112.88
+www.genspark.ai = 193.233.112.68
 
 # Google AI
-ai.google.dev = 45.155.204.190
-aisandbox-pa.googleapis.com = 45.155.204.190
-aistudio.google.com = 45.155.204.190
-aitestkitchen.withgoogle.com = 45.155.204.190
-alkalicore-pa.clients6.google.com = 45.155.204.190
-alkalimakersuite-pa.clients6.google.com = 45.155.204.190
-apis.google.com = 45.155.204.190
-appcatalyst.pa.googleapis.com = 45.155.204.190
-assistant-s3-pa.googleapis.com = 45.155.204.190
-bard.google.com = 45.155.204.190
-daily-cloudcode-pa.googleapis.com = 45.155.204.190
-deepmind.com = 45.155.204.190
-deepmind.google = 45.155.204.190
-developerprofiles-pa.googleapis.com = 45.155.204.190
-geller-pa.googleapis.com = 45.155.204.190
-gemini.google = 45.155.204.190
-gemini.google.com = 45.155.204.190
-generativeai.google = 45.155.204.190
-generativelanguage.googleapis.com = 45.155.204.190
-jules.google = 45.155.204.190
-jules.google.com = 45.155.204.190
-labs.google = 45.155.204.190
-labs.google.com = 45.155.204.190
-lookerstudio.google.com = 45.155.204.190
-makersuite.google.com = 45.155.204.190
-notebooklm.google = 45.155.204.190
-notebooklm.google.com = 45.155.204.190
-notebooklm-pa.googleapis.com = 45.155.204.190
-o.pki.goog = 45.155.204.190
-opal.google = 45.155.204.190
-opal.google.com = 45.155.204.190
-opal.withgoogle.com = 45.155.204.190
-people-pa.clients6.google.com = 45.155.204.190
-proactivebackend-pa.googleapis.com = 45.155.204.190
-robinfrontend-pa.googleapis.com = 45.155.204.190
-signaler-pa.clients6.google.com = 45.155.204.190
-stitch.withgoogle.com = 45.155.204.190
-suggestqueries.google.com = 45.155.204.190
-waa-pa.clients6.google.com = 45.155.204.190
-webchannel-alkalimakersuite-pa.clients6.google.com = 45.155.204.190
+
+antigravity.google = 193.233.112.88
+www.antigravity.google = 193.233.112.68
+datastudio.google.com = 193.233.112.68
+flow.google = 193.233.112.88
+www.flow.google = 193.233.112.68
+flowmusic.app = 193.233.112.68
+www.flowmusic.app = 193.233.112.88
+notebook-pa.googleapis.com = 193.233.112.68
+notebook.google = 193.233.112.68
+www.notebook.google = 193.233.112.88
+notebook.google.com = 193.233.112.88
+ai.google.dev = 193.233.112.68
+aisandbox-pa.googleapis.com = 193.233.112.68
+aistudio.google.com = 193.233.112.68
+aitestkitchen.withgoogle.com = 193.233.112.68
+alkalicore-pa.clients6.google.com = 193.233.112.88
+alkalimakersuite-pa.clients6.google.com = 193.233.112.68
+apis.google.com = 193.233.112.88
+appcatalyst.pa.googleapis.com = 193.233.112.68
+assistant-s3-pa.googleapis.com = 193.233.112.68
+bard.google.com = 193.233.112.88
+daily-cloudcode-pa.googleapis.com = 193.233.112.88
+deepmind.com = 193.233.112.88
+deepmind.google = 193.233.112.88
+developerprofiles-pa.googleapis.com = 193.233.112.88
+geller-pa.googleapis.com = 193.233.112.68
+gemini.google = 193.233.112.68
+gemini.google.com = 193.233.112.88
+generativeai.google = 193.233.112.88
+generativelanguage.googleapis.com = 193.233.112.88
+jules.google = 193.233.112.68
+jules.google.com = 193.233.112.88
+labs.google = 193.233.112.68
+labs.google.com = 193.233.112.68
+lookerstudio.google.com = 193.233.112.68
+makersuite.google.com = 193.233.112.68
+notebooklm.google = 193.233.112.88
+notebooklm.google.com = 193.233.112.68
+notebooklm-pa.googleapis.com = 193.233.112.88
+o.pki.goog = 193.233.112.88
+opal.google = 193.233.112.88
+opal.google.com = 193.233.112.68
+opal.withgoogle.com = 193.233.112.68
+people-pa.clients6.google.com = 193.233.112.88
+proactivebackend-pa.googleapis.com = 193.233.112.68
+robinfrontend-pa.googleapis.com = 193.233.112.88
+signaler-pa.clients6.google.com = 193.233.112.88
+stitch.withgoogle.com = 193.233.112.88
+suggestqueries.google.com = 193.233.112.68
+waa-pa.clients6.google.com = 193.233.112.88
+webchannel-alkalimakersuite-pa.clients6.google.com = 193.233.112.68
 
 # Grok
-accounts.x.ai = 45.155.204.190
-api.x.ai = 45.155.204.190
-asia-south1-livekit.grok.com = 45.155.204.190
-assets.grok.com = 45.155.204.190
-assets.x.ai = 45.155.204.190
-console.x.ai = 45.155.204.190
-data.x.ai = 45.155.204.190
-deferred-chat.x.ai = 45.155.204.190
-docs.x.ai = 45.155.204.190
-eu-west-1.api.x.ai = 45.155.204.190
-grok.com = 45.155.204.190
-grok.x.ai = 45.155.204.190
-imgen.x.ai = 45.155.204.190
-jf.x.ai = 45.155.204.190
-livekit.grok.com = 45.155.204.190
-login.x.ai = 45.155.204.190
-ssff.grok.com = 45.155.204.190
-status.x.ai = 45.155.204.190
-transcription.grok-v2.x.ai = 45.155.204.190
-trust.x.ai = 45.155.204.190
-typeahead.grok.com = 45.155.204.190
-us-east-1.api.x.ai = 45.155.204.190
-us-east-4-raw.api.x.ai = 45.155.204.190
-us-south-1-pltr.api.x.ai = 45.155.204.190
-us-west-1.api.x.ai = 45.155.204.190
-us-west-1-raw.api.x.ai = 45.155.204.190
-www.grok.com = 45.155.204.190
-www.x.ai = 45.155.204.190
+
+accounts.x.ai = 193.233.112.68
+api.x.ai = 193.233.112.68
+assets.grok.com = 193.233.112.88
+assets.x.ai = 193.233.112.88
+grok.com = 193.233.112.68
+www.grok.com = 193.233.112.88
+grok.x.com = 193.233.112.68
+grok.x.ai = 193.233.112.88
+x.ai = 193.233.112.68
+www.x.ai = 193.233.112.88
 
 # Guidedhacking
-guidedhacking.com = 45.155.204.190
-www.guidedhacking.com = 45.155.204.190
+
+guidedhacking.com = 193.233.112.68
+www.guidedhacking.com = 193.233.112.88
 
 # Guilded
-guilded.gg = 45.155.204.190
-www.guilded.gg = 45.155.204.190
+
+guilded.gg = 193.233.112.68
+www.guilded.gg = 193.233.112.88
+
+# Hume AI
+
+hume.ai = 193.233.112.88
+www.hume.ai = 193.233.112.68
+
+# Ikea
+
+ikea.com = 193.233.112.88
+www.ikea.com = 193.233.112.68
 
 # Imgur
-api.imgur.com = 45.155.204.190
+
+api.imgur.com = 193.233.112.88
 
 # Intel
-intel.com = 45.155.204.190
-www.intel.com = 45.155.204.190
-geolocation.onetrust.com = 45.155.204.190
+
+intel.com = 193.233.112.88
+www.intel.com = 193.233.112.68
+intel.de = 193.233.112.88
+www.intel.de = 193.233.112.68
+intel.se = 193.233.112.68
+www.intel.se = 193.233.112.88
+geolocation.onetrust.com = 193.233.112.88
 
 # JetBrains
-academy.jetbrains.com = 45.155.204.190
-account.jetbrains.com = 45.155.204.190
-adobe.fls.jetbrains.com = 45.155.204.190
-amazon.fls.jetbrains.com = 45.155.204.190
-ap-help.api.jetbrains.com = 45.155.204.190
-api-test.sandbox-resellers.jetbrains.com = 45.155.204.190
-api.jetbrains.ai = 45.155.204.190
-autoconfig.api.jetbrains.com = 45.155.204.190
-autodiscover.api.jetbrains.com = 45.155.204.190
-awsproxy.pkg-cdn.jetbrains.space = 45.155.204.190
-blog.jetbrains.com = 45.155.204.190
-blogs.jetbrains.com = 45.155.204.190
-byid.eu-1.jetbrains.space = 45.155.204.190
-byid.jetbrains.space = 45.155.204.190
-ca.jetbrains.com = 45.155.204.190
-cai.jetbrains.com = 45.155.204.190
-cdn.jetbrains.com = 45.155.204.190
-cloudconfig.jetbrains.com = 45.155.204.190
-cloudfront.pkg-cdn.jetbrains.space = 45.155.204.190
-code-with-me.jetbrains.com = 45.155.204.190
-code2art.jetbrains.com = 45.155.204.190
-codewithme-lobby-production.api.jetbrains.com = 45.155.204.190
-codewithme-lobby-staging.api.jetbrains.com = 45.155.204.190
-codewithme-lobby.api.jetbrains.com = 45.155.204.190
-codewithme-relay-europe-north1-1.api.jetbrains.com = 45.155.204.190
-codewithme-relay-europe-north1-2.api.jetbrains.com = 45.155.204.190
-comments.blog.jetbrains.com = 45.155.204.190
-configr.jetbrains.com = 45.155.204.190
-confluence.jetbrains.com = 45.155.204.190
-corona.jetbrains.space = 45.155.204.190
-data.services.jetbrains.com = 45.155.204.190
-datalore-forum.jetbrains.com = 45.155.204.190
-datalore.jetbrains.com = 45.155.204.190
-dc.jetbrains.space = 45.155.204.190
-dotcover-support.jetbrains.com = 45.155.204.190
-dotmemory-support.jetbrains.com = 45.155.204.190
-dotnet-ea.services.jetbrains.com = 45.155.204.190
-dotpeek-support.jetbrains.com = 45.155.204.190
-dottrace-support.jetbrains.com = 45.155.204.190
-download-cdn.jetbrains.com = 45.155.204.190
-downloads.marketplace.jetbrains.com = 45.155.204.190
-dunnhumby.fls.jetbrains.com = 45.155.204.190
-ea.jetbrains.com = 45.155.204.190
-eap.jetbrains.com = 45.155.204.190
-element.jetbrains.space = 45.155.204.190
-employee-guides.jetbrains.com = 45.155.204.190
-eu-1.jetbrains.space = 45.155.204.190
-fleet-relay.api.jetbrains.com = 45.155.204.190
-geo2.datalore.jetbrains.com = 45.155.204.190
-guide.master-zdchint.mau.jetbrains.com = 45.155.204.190
-guide.staging-zdchint.mau.jetbrains.com = 45.155.204.190
-hacktoberfest2020.mau.jetbrains.com = 45.155.204.190
-handle.prod.csat.mau.jetbrains.com = 45.155.204.190
-handle.staging.csat.mau.jetbrains.com = 45.155.204.190
-hello.jetbrains.com = 45.155.204.190
-hub.jetbrains.com = 45.155.204.190
-ij-perf.jetbrains.com = 45.155.204.190
-index-cdn.jetbrains.com = 45.155.204.190
-int.api.jetbrains.com = 45.155.204.190
-internship.jetbrains.com = 45.155.204.190
-jb-team.fls.jetbrains.com = 45.155.204.190
-jbstats.jetbrains.com = 45.155.204.190
-jetarchive.jetbrains.com = 45.155.204.190
-jetbrains.com = 45.155.204.190
-jetbrains.space = 45.155.204.190
-jetpeople.jetbrains.com = 45.155.204.190
-justtoplay.jetbrains.space = 45.155.204.190
-local.api.jetbrains.com = 45.155.204.190
-lp.jetbrains.com = 45.155.204.190
-lservice.jetbrains.com = 45.155.204.190
-mail.jetbrains.com = 45.155.204.190
-marketplace.jetbrains.com = 45.155.204.190
-maven.jetbrains.space = 45.155.204.190
-maven.pkg.jetbrains.space = 45.155.204.190
-merchandise.jetbrains.com = 45.155.204.190
-mkto-mailer.jetbrains.com = 45.155.204.190
-mta-sts.jetbrains.com = 45.155.204.190
-myjetbrains.com = 45.155.204.190
-ngenix.assets.service.jetbrains.space = 45.155.204.190
-oauth.account.jetbrains.com = 45.155.204.190
-oauth.fls.jetbrains.com = 45.155.204.190
-oauth2-proxy-api.api.jetbrains.com = 45.155.204.190
-onboard.jetbrains.com = 45.155.204.190
-package-search.jetbrains.com = 45.155.204.190
-package-search.services.jetbrains.com = 45.155.204.190
-pkg-cdn.jetbrains.space = 45.155.204.190
-pkg.eu-1.jetbrains.space = 45.155.204.190
-plugins.jetbrains.com = 45.155.204.190
-registry.eu-1.jetbrains.space = 45.155.204.190
-registry.jetbrains.space = 45.155.204.190
-renew-your-ssl-certificate.jetbrains.com = 45.155.204.190
-resharper-plugins.jetbrains.com = 45.155.204.190
-resources.jetbrains.com = 45.155.204.190
-ruhlaender.jetbrains.space = 45.155.204.190
-sales.jetbrains.com = 45.155.204.190
-skyscanner.fls.jetbrains.com = 45.155.204.190
-slack-bdt.mau.jetbrains.com = 45.155.204.190
-slack-mps.jetbrains.com = 45.155.204.190
-slack.jetbrains.com = 45.155.204.190
-space-cdn.jetbrains.space = 45.155.204.190
-spotify.fls.jetbrains.com = 45.155.204.190
-stackexchange.master-zdchint.mau.jetbrains.com = 45.155.204.190
-stackexchange.staging-zdchint.mau.jetbrains.com = 45.155.204.190
-staging.zdviewcount.mau.jetbrains.com = 45.155.204.190
-support.jetbrains.com = 45.155.204.190
-sv.fls.jetbrains.com = 45.155.204.190
-swu-acm.jetbrains.space = 45.155.204.190
-teamcity-support.jetbrains.com = 45.155.204.190
-teamcity.jetbrains.com = 45.155.204.190
-tiles.datalore.jetbrains.com = 45.155.204.190
-tiles2.datalore.jetbrains.com = 45.155.204.190
-uploads.jetbrains.com = 45.155.204.190
-uploads.services.jetbrains.com = 45.155.204.190
-upsource.jetbrains.com = 45.155.204.190
-view.datalore.jetbrains.com = 45.155.204.190
-walx.jetbrains.space = 45.155.204.190
-www.jetbrains.com = 45.155.204.190
-www.jetbrains.space = 45.155.204.190
-youtrack.jetbrains.com = 45.155.204.190
-youtube.master-zdchint.mau.jetbrains.com = 45.155.204.190
-youtube.staging-zdchint.mau.jetbrains.com = 45.155.204.190
-zillow.fls.jetbrains.com = 45.155.204.190
+
+datalore.jetbrains.com = 193.233.112.88
+plugins.jetbrains.com = 193.233.112.88
+download.jetbrains.com = 193.233.112.88
+api.jetbrains.ai = 193.233.112.68
+account.jetbrains.com = 193.233.112.68
+jetbrains.com = 193.233.112.88
+www.jetbrains.com = 193.233.112.68
+jetbrains.space = 193.233.112.68
+www.jetbrains.space = 193.233.112.88
+myjetbrains.com = 193.233.112.88
+www.myjetbrains.com = 193.233.112.68
+
+# Kaleido AI
+
+kaleido.ai = 193.233.112.88
+www.kaleido.ai = 193.233.112.68
 
 # Last.fm
-autodiscover.last.fm = 45.155.204.190
-jira.last.fm = 45.155.204.190
-last.fm = 45.155.204.190
-lastfm.freetls.fastly.net = 45.155.204.190
-s.last.fm = 45.155.204.190
-saa.last.fm = 45.155.204.190
-secure.last.fm = 45.155.204.190
-shop.last.fm = 45.155.204.190
-store.last.fm = 45.155.204.190
-support.last.fm = 45.155.204.190
-wiki.last.fm = 45.155.204.190
-www.last.fm = 45.155.204.190
+
+autodiscover.last.fm = 193.233.112.88
+jira.last.fm = 193.233.112.88
+last.fm = 193.233.112.88
+www.last.fm = 193.233.112.68
+s.last.fm = 193.233.112.68
+saa.last.fm = 193.233.112.68
+secure.last.fm = 193.233.112.68
+shop.last.fm = 193.233.112.88
+store.last.fm = 193.233.112.68
+support.last.fm = 193.233.112.68
+wiki.last.fm = 193.233.112.88
+ws.audioscrobbler.com = 193.233.112.88
+
+# Lego
+
+lego.com = 193.233.112.68
+www.lego.com = 193.233.112.88
 
 # Linear.app
-client-api.linear.app = 45.155.204.190
-constellation.linear.app = 45.155.204.190
-linear.app = 45.155.204.190
-public.linear.app = 45.155.204.190
-s.linear.app = 45.155.204.190
-static.linear.app = 45.155.204.190
-uploads.linear.app = 45.155.204.190
+
+client-api.linear.app = 193.233.112.68
+constellation.linear.app = 193.233.112.88
+linear.app = 193.233.112.68
+www.linear.app = 193.233.112.88
+public.linear.app = 193.233.112.88
+s.linear.app = 193.233.112.88
+static.linear.app = 193.233.112.68
+uploads.linear.app = 193.233.112.68
 
 # Make
-make.com = 45.155.204.190
-www.make.com = 45.155.204.190
+
+make.com = 193.233.112.88
+www.make.com = 193.233.112.68
+
+# Makita
+
+makita.ca = 193.233.112.88
+www.makita.ca = 193.233.112.68
+makita.cl = 193.233.112.68
+www.makita.cl = 193.233.112.88
+makita.co.nz = 193.233.112.88
+www.makita.co.nz = 193.233.112.68
+makita.com.au = 193.233.112.68
+www.makita.com.au = 193.233.112.88
+makita.com.kh = 193.233.112.88
+makita.com.tw = 193.233.112.88
+www.makita.com.tw = 193.233.112.68
+makita.sk = 193.233.112.88
+www.makita.sk = 193.233.112.68
+makita.ua = 193.233.112.88
+www.makita.ua = 193.233.112.68
+makitalatinamerica.com = 193.233.112.68
+www.makitalatinamerica.com = 193.233.112.88
 
 # Manus
-api.manus.im = 45.155.204.190
-manus.im = 45.155.204.190
+
+api.manus.im = 193.233.112.68
+files.manuscdn.com = 193.233.112.88
+manus.im = 193.233.112.68
+www.manus.im = 193.233.112.88
 
 # Meta AI
-meta.ai = 45.155.204.190
-www.meta.ai = 45.155.204.190
+
+meta.ai = 193.233.112.88
+www.meta.ai = 193.233.112.68
+
+# Microchip
+
+microchip.com = 193.233.112.88
+www.microchip.com = 193.233.112.68
 
 # Microsoft (Copilot, Designer, Xbox)
-a1961.g2.akamai.net = 45.155.204.190
-a1968.i6g1.akamai.net = 45.155.204.190
-azwindows.ipv6.microsoft.com.akadns.net = 45.155.204.190
-copilot.microsoft.com = 45.155.204.190
-designer.microsoft.com = 45.155.204.190
-designerapp.officeapps.live.com = 45.155.204.190
-e13678.dscb.akamaiedge.net = 45.155.204.190
-ecs.office.com = 45.155.204.190
-edgeservices.bing.com = 45.155.204.190
-ipv6.msftconnecttest.com = 45.155.204.190
-ipv6.msftconnecttest.com.edgesuite.net = 45.155.204.190
-ncsi-geo.trafficmanager.net = 45.155.204.190
-ncsiv6-geo.trafficmanager.net = 45.155.204.190
-rewards.bing.com = 45.155.204.190
-sydney.bing.com = 45.155.204.190
-win1910.ipv6.microsoft.com = 45.155.204.190
-www.microsoft.com-c-3.edgekey.net = 45.155.204.190
-www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net = 45.155.204.190
-www.msftconnecttest.com = 45.155.204.190
-www.msftncsi.com.edgesuite.net = 45.155.204.190
-xboxdesignlab.xbox.com = 45.155.204.190
-xgpuweb.gssv-play-prod.xboxlive.com = 45.155.204.190
-xgpuwebf2p.gssv-play-prod.xboxlive.com = 45.155.204.190
-xsts.auth.xboxlive.com = 45.155.204.190
+
+auth.xboxlive.com = 193.233.112.68
+copilot.microsoft.com = 193.233.112.88
+designer.microsoft.com = 193.233.112.68
+ecs.office.com = 193.233.112.68
+edgeservices.bing.com = 193.233.112.68
+gssv-play-prod.xboxlive.com = 193.233.112.68
+rewards.bing.com = 193.233.112.88
+sydney.bing.com = 193.233.112.88
+titlestorage.xboxlive.com = 193.233.112.88
+xboxdesignlab.xbox.com = 193.233.112.68
+xgpuweb.gssv-play-prod.xboxlive.com = 193.233.112.68
+xgpuwebf2p.gssv-play-prod.xboxlive.com = 193.233.112.68
+xsts.auth.xboxlive.com = 193.233.112.68
+
+# Modivo
+
+img.modivo.cloud = 193.233.112.68
+modivo.pl = 193.233.112.68
+www.modivo.pl = 193.233.112.88
+
+# Monica
+
+monica.im = 193.233.112.88
+www.monica.im = 193.233.112.68
+
+# Mongodb
+
+api.blue.mongodb.com = 193.233.112.88
+evs.blue.mongodb.co = 193.233.112.68
+webassets.mongodb.com = 193.233.112.68
+mongodb.com = 193.233.112.88
+www.mongodb.com = 193.233.112.68
 
 # Naukri
-aeronube.csm.naukri.com = 45.155.204.190
-apis.naukri.com = 45.155.204.190
-apply.naukri.com = 45.155.204.190
-applyintegration.naukri.com = 45.155.204.190
-arabicstatic.naukimg.com = 45.155.204.190
-assessment.nc.naukri.com = 45.155.204.190
-assessments.naukri.com = 45.155.204.190
-assessments.nc.naukri.com = 45.155.204.190
-assets.staging.assessment.nc.naukri.com = 45.155.204.190
-autodiscover.csm.naukri.com = 45.155.204.190
-autodiscover.login.recruit.naukri.com = 45.155.204.190
-autodiscover.naukimg.com = 45.155.204.190
-autodiscover.naukri.com = 45.155.204.190
-autodiscover.rms.naukri.com = 45.155.204.190
-avasin.naukri.com = 45.155.204.190
-blogs.naukri.com = 45.155.204.190
-bms.naukimg.com = 45.155.204.190
-careernavigator.naukri.com = 45.155.204.190
-careers.naukri.com = 45.155.204.190
-careersite.naukri.com = 45.155.204.190
-careersite.secure.naukri.com = 45.155.204.190
-careersitescdn.naukri.com = 45.155.204.190
-ccs-service.naukri.com = 45.155.204.190
-chatbot.naukri.com = 45.155.204.190
-chatclient-mobile.naukri.com = 45.155.204.190
-chatclient.naukri.com = 45.155.204.190
-cm.naukri.com = 45.155.204.190
-communication.naukri.com = 45.155.204.190
-companies.naukri.com = 45.155.204.190
-company.naukri.com = 45.155.204.190
-contentcdn.naukri.com = 45.155.204.190
-contest.nc.naukri.com = 45.155.204.190
-corp.naukri.com = 45.155.204.190
-cps.naukri.com = 45.155.204.190
-csm.naukri.com = 45.155.204.190
-csmmail.naukri.com = 45.155.204.190
-css.naukimg.com = 45.155.204.190
-css.naukri.com = 45.155.204.190
-dashboard.naukri.com = 45.155.204.190
-delivery.naukri.com = 45.155.204.190
-demologin.resdex.naukri.com = 45.155.204.190
-demoresdex.naukri.com = 45.155.204.190
-e-learning.naukri.com = 45.155.204.190
-eapps.naukri.com = 45.155.204.190
-echo.naukri.com = 45.155.204.190
-engineering.naukri.com = 45.155.204.190
-enterprise.naukri.com = 45.155.204.190
-feeds.naukri.com = 45.155.204.190
-fflms.naukri.com = 45.155.204.190
-files.naukri.com = 45.155.204.190
-filestg.naukri.com = 45.155.204.190
-filevalidation.naukri.com = 45.155.204.190
-fn-hackathon-ui.nc.naukri.com = 45.155.204.190
-freesearch.naukri.com = 45.155.204.190
-hiring.naukri.com = 45.155.204.190
-images.naukri.com = 45.155.204.190
-img.naukimg.com = 45.155.204.190
-img.naukri.com = 45.155.204.190
-in.naukri.com = 45.155.204.190
-insights.naukri.com = 45.155.204.190
-insightsapi.naukri.com = 45.155.204.190
-jatracking.naukri.com = 45.155.204.190
-jobfeeds.naukri.com = 45.155.204.190
-jobs.naukri.com = 45.155.204.190
-jobsearch.naukri.com = 45.155.204.190
-jpreports.naukri.com = 45.155.204.190
-js.naukimg.com = 45.155.204.190
-js.naukri.com = 45.155.204.190
-learning.naukri.com = 45.155.204.190
-lg.naukri.com = 45.155.204.190
-lms.naukri.com = 45.155.204.190
-login.naukri.com = 45.155.204.190
-login.recruit.naukri.com = 45.155.204.190
-logs.naukri.com = 45.155.204.190
-lyncdiscover.naukri.com = 45.155.204.190
-m.naukri.com = 45.155.204.190
-m102.naukri.com = 45.155.204.190
-m75.naukri.com = 45.155.204.190
-m83.naukri.com = 45.155.204.190
-m9.naukri.com = 45.155.204.190
-m91.naukri.com = 45.155.204.190
-maestrorecruiter.naukri.com = 45.155.204.190
-mail.naukri.com = 45.155.204.190
-mailersystem.naukri.com = 45.155.204.190
-mailtracking.naukri.com = 45.155.204.190
-media.naukri.com = 45.155.204.190
-mediacdn.naukri.com = 45.155.204.190
-messenger.naukri.com = 45.155.204.190
-mobile.naukri.com = 45.155.204.190
-mscanus.naukri.com = 45.155.204.190
-my.naukri.com = 45.155.204.190
-naukri.com = 45.155.204.190
-naukriconfidential.naukri.com = 45.155.204.190
-naukrihiringsuite.naukri.com = 45.155.204.190
-naukrirecruiter.naukri.com = 45.155.204.190
-nimg.naukri.com = 45.155.204.190
-nmail-103-214-115-103.naukri.com = 45.155.204.190
-nmail-103-214-115-125.naukri.com = 45.155.204.190
-nmail-one03-two14-one15-one22.naukri.com = 45.155.204.190
-nmail-one03-two14-one15-one24.naukri.com = 45.155.204.190
-nmail-one03-two14-one15-one32.naukri.com = 45.155.204.190
-nmail-one03-two14-one15-one33.naukri.com = 45.155.204.190
-nmail-one03-two14-one15-one34.naukri.com = 45.155.204.190
-nmail-one03-two14-one15-one38.naukri.com = 45.155.204.190
-nmail-one03-two14-one15-one39.naukri.com = 45.155.204.190
-nmail-one03-two14-one15-one93.naukri.com = 45.155.204.190
-nmail-one03-two14-one15-one94.naukri.com = 45.155.204.190
-nmail-one03-two14-one15-one95.naukri.com = 45.155.204.190
-nmail-one03-two14-one15-one96.naukri.com = 45.155.204.190
-nmail-one03-two14-one15-one97.naukri.com = 45.155.204.190
-nmail-one03-two14-one15-two13.naukri.com = 45.155.204.190
-nmail-one03-two14-one15-two14.naukri.com = 45.155.204.190
-nmail-one03-two14-one15-two15.naukri.com = 45.155.204.190
-nmail193.naukri.com = 45.155.204.190
-nmail214.naukri.com = 45.155.204.190
-noidacas01.naukri.com = 45.155.204.190
-noinsight.naukri.com = 45.155.204.190
-notifications.naukri.com = 45.155.204.190
-np.naukimg.com = 45.155.204.190
-onlinetest.nc.naukri.com = 45.155.204.190
-p.naukimg.com = 45.155.204.190
-p.naukri.com = 45.155.204.190
-pg.naukri.com = 45.155.204.190
-pop.naukri.com = 45.155.204.190
-posting.naukri.com = 45.155.204.190
-productupdates.naukri.com = 45.155.204.190
-pt.naukri.com = 45.155.204.190
-pulse.naukri.com = 45.155.204.190
-rdxfootmark.naukri.com = 45.155.204.190
-recruit.naukri.com = 45.155.204.190
-recruiter.naukri.com = 45.155.204.190
-recruiterfaq.naukri.com = 45.155.204.190
-recruiters.naukri.com = 45.155.204.190
-recruitersurvey.naukri.com = 45.155.204.190
-recruiterzone.naukri.com = 45.155.204.190
-referral.naukri.com = 45.155.204.190
-resbilling.naukri.com = 45.155.204.190
-resdex.base.naukri.com = 45.155.204.190
-resdex.naukri.com = 45.155.204.190
-resht.naukri.com = 45.155.204.190
-resman.naukri.com = 45.155.204.190
-response.naukri.com = 45.155.204.190
-restservices.naukri.com = 45.155.204.190
-resume.naukri.com = 45.155.204.190
-resumepedia.naukri.com = 45.155.204.190
-resumeservices.naukri.com = 45.155.204.190
-rms.naukri.com = 45.155.204.190
-rmsbulkupload.naukri.com = 45.155.204.190
-rmsmail.naukri.com = 45.155.204.190
-sip.naukri.com = 45.155.204.190
-smtp.naukri.com = 45.155.204.190
-staging.assessment.nc.naukri.com = 45.155.204.190
-staging.contest.nc.naukri.com = 45.155.204.190
-staging.fn-hackathon-ui.nc.naukri.com = 45.155.204.190
-staging.onlinetest.nc.naukri.com = 45.155.204.190
-static.naukimg.com = 45.155.204.190
-static.naukri.com = 45.155.204.190
-static.staging.assessment.nc.naukri.com = 45.155.204.190
-stgmtstap.naukri.com = 45.155.204.190
-stgmtstjs.naukri.com = 45.155.204.190
-stgmtstmnj.naukri.com = 45.155.204.190
-stgmtstwb.naukri.com = 45.155.204.190
-stream.naukri.com = 45.155.204.190
-streamgenai.naukri.com = 45.155.204.190
-suggest-staging.naukri.com = 45.155.204.190
-suggest.naukimg.com = 45.155.204.190
-suggest.naukri.com = 45.155.204.190
-suggestlg.naukimg.com = 45.155.204.190
-suggestlg.naukri.com = 45.155.204.190
-suggestor.naukri.com = 45.155.204.190
-tableau.naukri.com = 45.155.204.190
-target.naukri.com = 45.155.204.190
-taxonomy-suggest.naukri.com = 45.155.204.190
-trust.naukri.com = 45.155.204.190
-verify.naukri.com = 45.155.204.190
-vmscanus.naukri.com = 45.155.204.190
-w.naukri.com = 45.155.204.190
-w10.naukri.com = 45.155.204.190
-w16.naukri.com = 45.155.204.190
-w28.naukri.com = 45.155.204.190
-w37.naukri.com = 45.155.204.190
-w4.naukri.com = 45.155.204.190
-w5.naukri.com = 45.155.204.190
-webhooks.naukri.com = 45.155.204.190
-webtracker.naukri.com = 45.155.204.190
-whitehat.naukri.com = 45.155.204.190
-wtg.csm.naukri.com = 45.155.204.190
-www.e-learning.naukri.com = 45.155.204.190
-www.echo.naukri.com = 45.155.204.190
-www.learning.naukri.com = 45.155.204.190
-www.naukimg.com = 45.155.204.190
-www.naukri.com = 45.155.204.190
-www.resume.naukri.com = 45.155.204.190
-yahoo.naukri.com = 45.155.204.190
+
+aeronube.csm.naukri.com = 193.233.112.88
+apis.naukri.com = 193.233.112.68
+apply.naukri.com = 193.233.112.88
+applyintegration.naukri.com = 193.233.112.88
+arabicstatic.naukimg.com = 193.233.112.88
+assessment.nc.naukri.com = 193.233.112.68
+assessments.naukri.com = 193.233.112.68
+assessments.nc.naukri.com = 193.233.112.88
+assets.staging.assessment.nc.naukri.com = 193.233.112.68
+autodiscover.csm.naukri.com = 193.233.112.68
+autodiscover.login.recruit.naukri.com = 193.233.112.68
+autodiscover.naukimg.com = 193.233.112.88
+autodiscover.naukri.com = 193.233.112.88
+autodiscover.rms.naukri.com = 193.233.112.88
+avasin.naukri.com = 193.233.112.88
+blogs.naukri.com = 193.233.112.88
+bms.naukimg.com = 193.233.112.88
+careernavigator.naukri.com = 193.233.112.68
+careers.naukri.com = 193.233.112.68
+careersite.naukri.com = 193.233.112.68
+careersite.secure.naukri.com = 193.233.112.88
+careersitescdn.naukri.com = 193.233.112.68
+ccs-service.naukri.com = 193.233.112.68
+chatbot.naukri.com = 193.233.112.68
+chatclient-mobile.naukri.com = 193.233.112.88
+chatclient.naukri.com = 193.233.112.68
+cm.naukri.com = 193.233.112.88
+communication.naukri.com = 193.233.112.88
+companies.naukri.com = 193.233.112.68
+company.naukri.com = 193.233.112.68
+contentcdn.naukri.com = 193.233.112.88
+contest.nc.naukri.com = 193.233.112.68
+corp.naukri.com = 193.233.112.88
+cps.naukri.com = 193.233.112.88
+csm.naukri.com = 193.233.112.68
+csmmail.naukri.com = 193.233.112.88
+css.naukimg.com = 193.233.112.68
+css.naukri.com = 193.233.112.68
+dashboard.naukri.com = 193.233.112.88
+delivery.naukri.com = 193.233.112.88
+demologin.resdex.naukri.com = 193.233.112.68
+demoresdex.naukri.com = 193.233.112.88
+e-learning.naukri.com = 193.233.112.88
+www.e-learning.naukri.com = 193.233.112.68
+eapps.naukri.com = 193.233.112.68
+echo.naukri.com = 193.233.112.68
+www.echo.naukri.com = 193.233.112.88
+engineering.naukri.com = 193.233.112.68
+enterprise.naukri.com = 193.233.112.68
+feeds.naukri.com = 193.233.112.68
+fflms.naukri.com = 193.233.112.88
+files.naukri.com = 193.233.112.68
+filestg.naukri.com = 193.233.112.68
+filevalidation.naukri.com = 193.233.112.68
+fn-hackathon-ui.nc.naukri.com = 193.233.112.88
+freesearch.naukri.com = 193.233.112.88
+hiring.naukri.com = 193.233.112.68
+images.naukri.com = 193.233.112.88
+img.naukimg.com = 193.233.112.68
+img.naukri.com = 193.233.112.68
+in.naukri.com = 193.233.112.68
+insights.naukri.com = 193.233.112.68
+insightsapi.naukri.com = 193.233.112.68
+jatracking.naukri.com = 193.233.112.88
+jobfeeds.naukri.com = 193.233.112.88
+jobs.naukri.com = 193.233.112.88
+jobsearch.naukri.com = 193.233.112.68
+jpreports.naukri.com = 193.233.112.68
+js.naukimg.com = 193.233.112.68
+js.naukri.com = 193.233.112.68
+learning.naukri.com = 193.233.112.88
+www.learning.naukri.com = 193.233.112.68
+lg.naukri.com = 193.233.112.68
+lms.naukri.com = 193.233.112.88
+login.naukri.com = 193.233.112.68
+login.recruit.naukri.com = 193.233.112.68
+logs.naukri.com = 193.233.112.68
+lyncdiscover.naukri.com = 193.233.112.68
+m.naukri.com = 193.233.112.68
+m102.naukri.com = 193.233.112.88
+m75.naukri.com = 193.233.112.68
+m83.naukri.com = 193.233.112.88
+m9.naukri.com = 193.233.112.88
+m91.naukri.com = 193.233.112.68
+maestrorecruiter.naukri.com = 193.233.112.88
+mail.naukri.com = 193.233.112.68
+mailersystem.naukri.com = 193.233.112.68
+mailtracking.naukri.com = 193.233.112.88
+media.naukri.com = 193.233.112.88
+mediacdn.naukri.com = 193.233.112.68
+messenger.naukri.com = 193.233.112.68
+mobile.naukri.com = 193.233.112.88
+mscanus.naukri.com = 193.233.112.88
+my.naukri.com = 193.233.112.88
+naukri.com = 193.233.112.88
+www.naukri.com = 193.233.112.68
+naukriconfidential.naukri.com = 193.233.112.88
+naukrihiringsuite.naukri.com = 193.233.112.68
+naukrirecruiter.naukri.com = 193.233.112.68
+nimg.naukri.com = 193.233.112.68
+nmail-103-214-115-103.naukri.com = 193.233.112.68
+nmail-103-214-115-125.naukri.com = 193.233.112.68
+nmail-one03-two14-one15-one22.naukri.com = 193.233.112.68
+nmail-one03-two14-one15-one24.naukri.com = 193.233.112.68
+nmail-one03-two14-one15-one32.naukri.com = 193.233.112.88
+nmail-one03-two14-one15-one33.naukri.com = 193.233.112.68
+nmail-one03-two14-one15-one34.naukri.com = 193.233.112.88
+nmail-one03-two14-one15-one38.naukri.com = 193.233.112.88
+nmail-one03-two14-one15-one39.naukri.com = 193.233.112.68
+nmail-one03-two14-one15-one93.naukri.com = 193.233.112.68
+nmail-one03-two14-one15-one94.naukri.com = 193.233.112.88
+nmail-one03-two14-one15-one95.naukri.com = 193.233.112.68
+nmail-one03-two14-one15-one96.naukri.com = 193.233.112.88
+nmail-one03-two14-one15-one97.naukri.com = 193.233.112.68
+nmail-one03-two14-one15-two13.naukri.com = 193.233.112.68
+nmail-one03-two14-one15-two14.naukri.com = 193.233.112.88
+nmail-one03-two14-one15-two15.naukri.com = 193.233.112.68
+nmail193.naukri.com = 193.233.112.88
+nmail214.naukri.com = 193.233.112.88
+noidacas01.naukri.com = 193.233.112.68
+noinsight.naukri.com = 193.233.112.68
+notifications.naukri.com = 193.233.112.88
+np.naukimg.com = 193.233.112.88
+onlinetest.nc.naukri.com = 193.233.112.88
+p.naukimg.com = 193.233.112.88
+p.naukri.com = 193.233.112.88
+pg.naukri.com = 193.233.112.68
+pop.naukri.com = 193.233.112.68
+posting.naukri.com = 193.233.112.88
+productupdates.naukri.com = 193.233.112.68
+pt.naukri.com = 193.233.112.88
+pulse.naukri.com = 193.233.112.68
+rdxfootmark.naukri.com = 193.233.112.68
+recruit.naukri.com = 193.233.112.88
+recruiter.naukri.com = 193.233.112.68
+recruiterfaq.naukri.com = 193.233.112.68
+recruiters.naukri.com = 193.233.112.88
+recruitersurvey.naukri.com = 193.233.112.68
+recruiterzone.naukri.com = 193.233.112.68
+referral.naukri.com = 193.233.112.68
+resbilling.naukri.com = 193.233.112.68
+resdex.base.naukri.com = 193.233.112.88
+resdex.naukri.com = 193.233.112.68
+resht.naukri.com = 193.233.112.88
+resman.naukri.com = 193.233.112.88
+response.naukri.com = 193.233.112.68
+restservices.naukri.com = 193.233.112.88
+resume.naukri.com = 193.233.112.68
+www.resume.naukri.com = 193.233.112.88
+resumepedia.naukri.com = 193.233.112.88
+resumeservices.naukri.com = 193.233.112.68
+rms.naukri.com = 193.233.112.88
+rmsbulkupload.naukri.com = 193.233.112.68
+rmsmail.naukri.com = 193.233.112.68
+sip.naukri.com = 193.233.112.88
+smtp.naukri.com = 193.233.112.88
+staging.assessment.nc.naukri.com = 193.233.112.88
+staging.contest.nc.naukri.com = 193.233.112.88
+staging.fn-hackathon-ui.nc.naukri.com = 193.233.112.68
+staging.onlinetest.nc.naukri.com = 193.233.112.68
+static.naukimg.com = 193.233.112.88
+static.naukri.com = 193.233.112.88
+static.staging.assessment.nc.naukri.com = 193.233.112.88
+stgmtstap.naukri.com = 193.233.112.68
+stgmtstjs.naukri.com = 193.233.112.68
+stgmtstmnj.naukri.com = 193.233.112.68
+stgmtstwb.naukri.com = 193.233.112.68
+stream.naukri.com = 193.233.112.88
+streamgenai.naukri.com = 193.233.112.88
+suggest-staging.naukri.com = 193.233.112.88
+suggest.naukimg.com = 193.233.112.88
+suggest.naukri.com = 193.233.112.88
+suggestlg.naukimg.com = 193.233.112.68
+suggestlg.naukri.com = 193.233.112.68
+suggestor.naukri.com = 193.233.112.68
+tableau.naukri.com = 193.233.112.88
+target.naukri.com = 193.233.112.68
+taxonomy-suggest.naukri.com = 193.233.112.88
+trust.naukri.com = 193.233.112.88
+verify.naukri.com = 193.233.112.68
+vmscanus.naukri.com = 193.233.112.88
+w.naukri.com = 193.233.112.68
+w10.naukri.com = 193.233.112.88
+w16.naukri.com = 193.233.112.88
+w28.naukri.com = 193.233.112.68
+w37.naukri.com = 193.233.112.68
+w4.naukri.com = 193.233.112.68
+w5.naukri.com = 193.233.112.88
+webhooks.naukri.com = 193.233.112.88
+webtracker.naukri.com = 193.233.112.88
+whitehat.naukri.com = 193.233.112.88
+wtg.csm.naukri.com = 193.233.112.68
+www.naukimg.com = 193.233.112.68
+yahoo.naukri.com = 193.233.112.88
 
 # Notion
-app.notion.com = 45.155.204.190
-calendar.notion.com = 45.155.204.190
-calendar.notion.so = 45.155.204.190
-notion.com = 45.155.204.190
-notion.so = 45.155.204.190
-www.notion.so = 45.155.204.190
-www.notion.com = 45.155.204.190
+
+app.notion.com = 193.233.112.88
+calendar.notion.com = 193.233.112.68
+calendar.notion.so = 193.233.112.88
+notion.com = 193.233.112.68
+www.notion.com = 193.233.112.88
+notion.so = 193.233.112.88
+www.notion.so = 193.233.112.68
 
 # Nvidia
-developer.nvidia.com = 45.155.204.190
+
+developer.nvidia.com = 193.233.112.68
+
+# OpenCode AI
+
+opencode.ai = 193.233.112.88
+www.opencode.ai = 193.233.112.68
+
+# OpenRouter AI
+
+openrouter.ai = 193.233.112.88
+www.openrouter.ai = 193.233.112.68
+eu.openrouter.ai = 193.233.112.88
+us.openrouter.ai = 193.233.112.88
 
 # Oracle
-oracle.com = 45.155.204.190
-www.oracle.com = 45.155.204.190
 
-# Patreon
-patreon.com = 45.155.204.190
-c5.patreon.com = 45.155.204.190
-c13.patreon.com = 45.155.204.190
-www.patreon.com = 45.155.204.190
-c10.patreonusercontent.com = 45.155.204.190
+oracle.com = 193.233.112.88
+www.oracle.com = 193.233.112.68
 
 # Posthog
-eu.posthog.com = 45.155.204.190
+
+eu.posthog.com = 193.233.112.88
 
 # Pump.fun
-pump.fun = 45.155.204.190
-frontend-api-v3.pump.fun = 45.155.204.190
-images.pump.fun = 45.155.204.190
-swap-api.pump.fun = 45.155.204.190
+
+pump.fun = 193.233.112.88
+frontend-api-v3.pump.fun = 193.233.112.68
+images.pump.fun = 193.233.112.88
+swap-api.pump.fun = 193.233.112.88
 
 # Reve
-app.reve.com = 45.155.204.190
-preview.reve.art = 45.155.204.190
+
+app.reve.com = 193.233.112.68
+preview.reve.art = 193.233.112.88
+reve.art = 193.233.112.88
+www.reve.art = 193.233.112.68
+reve.com = 193.233.112.88
+www.reve.com = 193.233.112.68
 
 # Qwant
-qwant.com = 45.155.204.190
-www.qwant.com = 45.155.204.190
+
+qwant.com = 193.233.112.68
+www.qwant.com = 193.233.112.88
+
+# Scribd
+
+scribd.com = 193.233.112.68
+www.scribd.com = 193.233.112.88
+scribdassets.com = 193.233.112.88
+www.scribdassets.com = 193.233.112.68
 
 # SketchUp
-sketchup.com = 45.155.204.190
-www.sketchup.com = 45.155.204.190
-id.trimble.com = 45.155.204.190
-sketchup.trimble.com = 45.155.204.190
+
+sketchup.com = 193.233.112.68
+www.sketchup.com = 193.233.112.88
+id.trimble.com = 193.233.112.88
+sketchup.trimble.com = 193.233.112.88
 
 # Spotify
-accounts.scdn.co = 45.155.204.190
-audio-fa-tls13.spotifycdn.com = 45.155.204.190
-audio-fa.scdn.co = 45.155.204.190
-canvaz.scdn.co = 45.155.204.190
-charts-images.scdn.co = 45.155.204.190
-concerts.spotifycdn.com = 45.155.204.190
-encore.scdn.co = 45.155.204.190
-heads-fa-tls13.spotifycdn.com = 45.155.204.190
-i-lo.scdn.co = 45.155.204.190
-i.scdn.co = 45.155.204.190
-image-cdn-fa.spotifycdn.com = 45.155.204.190
-mrkt.spotifycdn.com = 45.155.204.190
-open-exp.spotifycdn.com = 45.155.204.190
-pickasso.spotifycdn.com = 45.155.204.190
-podz-content.spotifycdn.com = 45.155.204.190
-seed-mix-image.spotifycdn.com = 45.155.204.190
-seektables.scdn.co = 45.155.204.190
-spotifycdn.com = 45.155.204.190
-spotifycdn.net = 45.155.204.190
-t.scdn.co = 45.155.204.190
-thisis-images.spotifycdn.com = 45.155.204.190
-wap.spotifycdn.com = 45.155.204.190
-web-sdk-assets.spotifycdn.com = 45.155.204.190
-www-growth.scdn.co = 45.155.204.190
+
+spotify.com = 193.233.112.88
+www.spotify.com = 193.233.112.68
+api.spotify.com = 193.233.112.88
+login5.spotify.com = 193.233.112.88
+encore.scdn.co = 193.233.112.68
+gew1-spclient.spotify.com = 193.233.112.68
+spclient.wg.spotify.com = 193.233.112.88
+api-partner.spotify.com = 193.233.112.68
+aet.spotify.com = 193.233.112.88
+accounts.spotify.com = 193.233.112.88
+open.spotify.com = 193.233.112.88
+accounts.scdn.co = 193.233.112.68
+gew1-dealer.spotify.com = 193.233.112.88
+www-growth.scdn.co = 193.233.112.88
+scdn.co = 193.233.112.68
+www.scdn.co = 193.233.112.88
 
 # Strava
-blog.strava.com = 45.155.204.190
-business.strava.com = 45.155.204.190
-c.strava.com = 45.155.204.190
-cdn-1.strava.com = 45.155.204.190
-communityhub.strava.com = 45.155.204.190
-content-a.strava.com = 45.155.204.190
-dam.strava.com = 45.155.204.190
-dev.strava.com = 45.155.204.190
-email.strava.com = 45.155.204.190
-email1.strava.com = 45.155.204.190
-graphql.strava.com = 45.155.204.190
-interview.strava.com = 45.155.204.190
-links.strava.com = 45.155.204.190
-metro.strava.com = 45.155.204.190
-mi.strava.com = 45.155.204.190
-promo.strava.com = 45.155.204.190
-scim.strava.com = 45.155.204.190
-shop.strava.com = 45.155.204.190
-staging.strava.com = 45.155.204.190
-status.strava.com = 45.155.204.190
-store.strava.com = 45.155.204.190
-stories.strava.com = 45.155.204.190
-strava.com = 45.155.204.190
-support.strava.com = 45.155.204.190
-tiles.strava.com = 45.155.204.190
-watch.samsung.strava.com = 45.155.204.190
-www.blog.strava.com = 45.155.204.190
-www.business.strava.com = 45.155.204.190
-www.metro.strava.com = 45.155.204.190
-www.promo.strava.com = 45.155.204.190
-www.strava.com = 45.155.204.190
+
+blog.strava.com = 193.233.112.68
+www.blog.strava.com = 193.233.112.88
+business.strava.com = 193.233.112.68
+www.business.strava.com = 193.233.112.88
+c.strava.com = 193.233.112.88
+cdn-1.strava.com = 193.233.112.88
+communityhub.strava.com = 193.233.112.68
+content-a.strava.com = 193.233.112.88
+dam.strava.com = 193.233.112.68
+dev.strava.com = 193.233.112.88
+email.strava.com = 193.233.112.68
+email1.strava.com = 193.233.112.88
+graphql.strava.com = 193.233.112.88
+interview.strava.com = 193.233.112.88
+links.strava.com = 193.233.112.88
+metro.strava.com = 193.233.112.88
+www.metro.strava.com = 193.233.112.68
+mi.strava.com = 193.233.112.68
+promo.strava.com = 193.233.112.88
+www.promo.strava.com = 193.233.112.68
+scim.strava.com = 193.233.112.68
+shop.strava.com = 193.233.112.68
+staging.strava.com = 193.233.112.88
+status.strava.com = 193.233.112.68
+store.strava.com = 193.233.112.88
+stories.strava.com = 193.233.112.88
+strava.com = 193.233.112.68
+www.strava.com = 193.233.112.88
+support.strava.com = 193.233.112.88
+tiles.strava.com = 193.233.112.88
+watch.samsung.strava.com = 193.233.112.88
+
+# Stumble Guys
+
+api.stumbleguys.com = 217.60.245.219
+matchmaking.stumbleguys.com = 217.60.245.219
 
 # Supercell
-accounts.supercell.com = 103.27.157.38
-cdn.id.supercell.com = 103.27.157.38
-clashofclans.inbox.supercell.com = 103.27.157.38
-game-assets.brawlstarsgame.com = 103.27.157.38
-game-assets.clashofclans.com = 103.27.157.38
-game-assets.clashroyaleapp.com = 103.27.157.38
-game.boombeachgame.com = 31.25.239.132
-game.brawlstarsgame.com = 185.246.223.127
-game.clashroyaleapp.com = 62.133.62.97
-gamea.clashofclans.com = 193.23.209.189
-game.mocogame.com = 31.25.239.132
-game.squadbustersgame.com = 108.61.167.26
-security.id.supercell.com = 103.27.157.38
-store.supercell.com = 103.27.157.38
+
+game.brawlstarsgame.com = 62.233.36.83
+game.clashroyaleapp.com = 81.17.20.82
+game.squadbustersgame.com = 81.17.20.84
+gamea.clashofclans.com = 81.17.20.86
+accounts.supercell.com = 217.60.245.233
+cdn.id.supercell.com = 217.60.245.233
+clashofclans.inbox.supercell.com = 217.60.245.219
+game-assets.brawlstarsgame.com = 217.60.245.233
+game-assets.clashofclans.com = 217.60.245.233
+game-assets.clashroyaleapp.com = 217.60.245.219
+game.boombeachgame.com = 217.60.245.219
+game.mocogame.com = 217.60.245.219
+security.id.supercell.com = 217.60.245.219
+store.supercell.com = 217.60.245.219
 
 # Tableau
-tableau.com = 45.155.204.190
-www.tableau.com = 45.155.204.190
+
+tableau.com = 193.233.112.88
+www.tableau.com = 193.233.112.68
 
 # Tailscale
-controlplane.tailscale.com = 45.155.204.190
+
+controlplane.tailscale.com = 193.233.112.68
 
 # TeamViewer
-download.teamviewer.com = 45.155.204.190
-dl.teamviewer.com = 45.155.204.190
 
-# Tidal
-api.tidal.com = 103.27.157.38
-listen.tidal.com = 103.27.157.38
-login.tidal.com = 103.27.157.38
-auth.tidal.com = 103.27.157.38
-link.tidal.com = 103.27.157.38
-dd.tidal.com = 103.27.157.38
-resources.tidal.com = 103.27.157.38
-images.tidal.com = 103.27.157.38
-fsu.fa.tidal.com = 103.27.157.38
-api.squareup.com = 45.155.204.190
-api-global.squareup.com = 45.155.204.190
+download.teamviewer.com = 193.233.112.68
+dl.teamviewer.com = 193.233.112.68
 
 # Trae.ai
-api-sg-central.trae.ai = 45.155.204.190
-api.trae.ai = 45.155.204.190
-api16-normal-alisg.mchost.guru = 45.155.204.190
-trae-api-sg.mchost.guru = 45.155.204.190
+
+api-sg-central.trae.ai = 193.233.112.88
+api.trae.ai = 193.233.112.68
+api16-normal-alisg.mchost.guru = 193.233.112.88
+trae-api-sg.mchost.guru = 193.233.112.88
 
 # Tria.ge
-tria.ge = 45.155.204.190
-www.tria.ge = 45.155.204.190
+
+tria.ge = 193.233.112.68
+www.tria.ge = 193.233.112.88
 
 # Truth Social
-truthsocial.com = 45.155.204.190
-static-assets-1.truthsocial.com = 45.155.204.190
+
+www.truthsocial.com = 193.233.112.68
+truthsocial.com = 193.233.112.88
+static-assets-1.truthsocial.com = 193.233.112.88
 
 # Tuta
-app.test.tuta.com = 45.155.204.190
-app.tuta.com = 45.155.204.190
-mta-sts.test.tuta.com = 45.155.204.190
-mta-sts.tuta.com = 45.155.204.190
-pay.test.tuta.com = 45.155.204.190
-pay.tuta.com = 45.155.204.190
-status.tuta.com = 45.155.204.190
-test.tuta.com = 45.155.204.190
-tuta.com = 45.155.204.190
-tutanota.com = 45.155.204.190
-w1.api.test.tuta.com = 45.155.204.190
-w10.api.tuta.com = 45.155.204.190
-w11.api.tuta.com = 45.155.204.190
-w12.api.tuta.com = 45.155.204.190
-w13.api.tuta.com = 45.155.204.190
-w14.api.tuta.com = 45.155.204.190
-w15.api.tuta.com = 45.155.204.190
-w16.api.tuta.com = 45.155.204.190
-w2.api.test.tuta.com = 45.155.204.190
-w3.api.test.tuta.com = 45.155.204.190
-w4.api.test.tuta.com = 45.155.204.190
-w5.api.test.tuta.com = 45.155.204.190
-w6.api.test.tuta.com = 45.155.204.190
-w7.api.test.tuta.com = 45.155.204.190
-w8.api.test.tuta.com = 45.155.204.190
-w9.api.tuta.com = 45.155.204.190
-www.tuta.com = 45.155.204.190
+
+app.test.tuta.com = 193.233.112.68
+app.tuta.com = 193.233.112.68
+mta-sts.test.tuta.com = 193.233.112.68
+mta-sts.tuta.com = 193.233.112.68
+pay.test.tuta.com = 193.233.112.88
+pay.tuta.com = 193.233.112.88
+status.tuta.com = 193.233.112.88
+test.tuta.com = 193.233.112.88
+tuta.com = 193.233.112.88
+www.tuta.com = 193.233.112.68
+tutanota.com = 193.233.112.88
+w1.api.test.tuta.com = 193.233.112.88
+w10.api.tuta.com = 193.233.112.88
+w11.api.tuta.com = 193.233.112.68
+w12.api.tuta.com = 193.233.112.88
+w13.api.tuta.com = 193.233.112.68
+w14.api.tuta.com = 193.233.112.88
+w15.api.tuta.com = 193.233.112.68
+w16.api.tuta.com = 193.233.112.88
+w2.api.test.tuta.com = 193.233.112.68
+w3.api.test.tuta.com = 193.233.112.88
+w4.api.test.tuta.com = 193.233.112.68
+w5.api.test.tuta.com = 193.233.112.88
+w6.api.test.tuta.com = 193.233.112.68
+w7.api.test.tuta.com = 193.233.112.88
+w8.api.test.tuta.com = 193.233.112.68
+w9.api.tuta.com = 193.233.112.88
 
 # Twitch
-gql.twitch.tv = 45.155.204.190
-usher.ttvnw.net = 45.155.204.190
+
+gql.twitch.tv = 193.233.112.88
+usher.ttvnw.net = 193.233.112.88
 
 # Weather.com
-upsx.weather.com = 45.155.204.190
-weather.com = 45.155.204.190
+
+upsx.weather.com = 193.233.112.88
+weather.com = 193.233.112.88
+www.weather.com = 193.233.112.68
 
 # Weather Underground
-wunderground.com = 45.155.204.190
-wund.com = 45.155.204.190
-w-x.co = 45.155.204.190
-wxug.com = 45.155.204.190
+
+wunderground.com = 193.233.112.88
+www.wunderground.com = 193.233.112.68
+wund.com = 193.233.112.88
+www.wund.com = 193.233.112.68
+w-x.co = 193.233.112.68
+www.w-x.co = 193.233.112.88
+wxug.com = 193.233.112.68
+www.wxug.com = 193.233.112.88
 
 # Web Archive
-web.archive.org = 45.155.204.190
+
+web.archive.org = 193.233.112.68
 
 # Windsurf
-codeium.com = 45.155.204.190
-codeiumdata.com = 45.155.204.190
-inference.codeium.com = 45.155.204.190
-marketplace.windsurf.com = 45.155.204.190
-server.codeium.com = 45.155.204.190
-unleash.codeium.com = 45.155.204.190
-web-backend.codeium.com = 45.155.204.190
-windsurf-stable.codeium.com = 45.155.204.190
-windsurf-telemetry.codeium.com = 45.155.204.190
-windsurf.com = 45.155.204.190
+
+codeium.com = 193.233.112.88
+www.codeium.com = 193.233.112.68
+codeiumdata.com = 193.233.112.88
+inference.codeium.com = 193.233.112.68
+marketplace.windsurf.com = 193.233.112.68
+server.codeium.com = 193.233.112.68
+unleash.codeium.com = 193.233.112.88
+web-backend.codeium.com = 193.233.112.68
+windsurf-stable.codeium.com = 193.233.112.88
+windsurf-telemetry.codeium.com = 193.233.112.88
+windsurf.com = 193.233.112.88
+
+# Wix
+
+users.wix.com = 193.233.112.88
 
 # WorkOS
-api.workos.com = 45.155.204.190
+
+api.workos.com = 193.233.112.68
 
 # Xerox
-xerox.com = 45.155.204.190
-www.xerox.com = 45.155.204.190
 
-# Other
-api.cdnlibs.org = 45.155.204.190
-builds.parsec.app = 45.155.204.190
-platform.parallel.ai = 45.155.204.190
+xerox.com = 193.233.112.88
+www.xerox.com = 193.233.112.68
 
-# Discord:
-finland10000.discord.media = 104.25.158.178
-finland10001.discord.media = 104.25.158.178
-finland10002.discord.media = 104.25.158.178
-finland10003.discord.media = 104.25.158.178
-finland10004.discord.media = 104.25.158.178
-finland10005.discord.media = 104.25.158.178
-finland10006.discord.media = 104.25.158.178
-finland10007.discord.media = 104.25.158.178
-finland10008.discord.media = 104.25.158.178
-finland10009.discord.media = 104.25.158.178
-finland10010.discord.media = 104.25.158.178
-finland10011.discord.media = 104.25.158.178
-finland10012.discord.media = 104.25.158.178
-finland10013.discord.media = 104.25.158.178
-finland10014.discord.media = 104.25.158.178
-finland10015.discord.media = 104.25.158.178
-finland10016.discord.media = 104.25.158.178
-finland10017.discord.media = 104.25.158.178
-finland10018.discord.media = 104.25.158.178
-finland10019.discord.media = 104.25.158.178
-finland10020.discord.media = 104.25.158.178
-finland10021.discord.media = 104.25.158.178
-finland10022.discord.media = 104.25.158.178
-finland10023.discord.media = 104.25.158.178
-finland10024.discord.media = 104.25.158.178
-finland10025.discord.media = 104.25.158.178
-finland10026.discord.media = 104.25.158.178
-finland10027.discord.media = 104.25.158.178
-finland10028.discord.media = 104.25.158.178
-finland10029.discord.media = 104.25.158.178
-finland10030.discord.media = 104.25.158.178
-finland10031.discord.media = 104.25.158.178
-finland10032.discord.media = 104.25.158.178
-finland10033.discord.media = 104.25.158.178
-finland10034.discord.media = 104.25.158.178
-finland10035.discord.media = 104.25.158.178
-finland10036.discord.media = 104.25.158.178
-finland10037.discord.media = 104.25.158.178
-finland10038.discord.media = 104.25.158.178
-finland10039.discord.media = 104.25.158.178
-finland10040.discord.media = 104.25.158.178
-finland10041.discord.media = 104.25.158.178
-finland10042.discord.media = 104.25.158.178
-finland10043.discord.media = 104.25.158.178
-finland10044.discord.media = 104.25.158.178
-finland10045.discord.media = 104.25.158.178
-finland10046.discord.media = 104.25.158.178
-finland10047.discord.media = 104.25.158.178
-finland10048.discord.media = 104.25.158.178
-finland10049.discord.media = 104.25.158.178
-finland10050.discord.media = 104.25.158.178
-finland10051.discord.media = 104.25.158.178
-finland10052.discord.media = 104.25.158.178
-finland10053.discord.media = 104.25.158.178
-finland10054.discord.media = 104.25.158.178
-finland10055.discord.media = 104.25.158.178
-finland10056.discord.media = 104.25.158.178
-finland10057.discord.media = 104.25.158.178
-finland10058.discord.media = 104.25.158.178
-finland10059.discord.media = 104.25.158.178
-finland10060.discord.media = 104.25.158.178
-finland10061.discord.media = 104.25.158.178
-finland10062.discord.media = 104.25.158.178
-finland10063.discord.media = 104.25.158.178
-finland10064.discord.media = 104.25.158.178
-finland10065.discord.media = 104.25.158.178
-finland10066.discord.media = 104.25.158.178
-finland10067.discord.media = 104.25.158.178
-finland10068.discord.media = 104.25.158.178
-finland10069.discord.media = 104.25.158.178
-finland10070.discord.media = 104.25.158.178
-finland10071.discord.media = 104.25.158.178
-finland10072.discord.media = 104.25.158.178
-finland10073.discord.media = 104.25.158.178
-finland10074.discord.media = 104.25.158.178
-finland10075.discord.media = 104.25.158.178
-finland10076.discord.media = 104.25.158.178
-finland10077.discord.media = 104.25.158.178
-finland10078.discord.media = 104.25.158.178
-finland10079.discord.media = 104.25.158.178
-finland10080.discord.media = 104.25.158.178
-finland10081.discord.media = 104.25.158.178
-finland10082.discord.media = 104.25.158.178
-finland10083.discord.media = 104.25.158.178
-finland10084.discord.media = 104.25.158.178
-finland10085.discord.media = 104.25.158.178
-finland10086.discord.media = 104.25.158.178
-finland10087.discord.media = 104.25.158.178
-finland10088.discord.media = 104.25.158.178
-finland10089.discord.media = 104.25.158.178
-finland10090.discord.media = 104.25.158.178
-finland10091.discord.media = 104.25.158.178
-finland10092.discord.media = 104.25.158.178
-finland10093.discord.media = 104.25.158.178
-finland10094.discord.media = 104.25.158.178
-finland10095.discord.media = 104.25.158.178
-finland10096.discord.media = 104.25.158.178
-finland10097.discord.media = 104.25.158.178
-finland10098.discord.media = 104.25.158.178
-finland10099.discord.media = 104.25.158.178
-finland10100.discord.media = 104.25.158.178
-finland10101.discord.media = 104.25.158.178
-finland10102.discord.media = 104.25.158.178
-finland10103.discord.media = 104.25.158.178
-finland10104.discord.media = 104.25.158.178
-finland10105.discord.media = 104.25.158.178
-finland10106.discord.media = 104.25.158.178
-finland10107.discord.media = 104.25.158.178
-finland10108.discord.media = 104.25.158.178
-finland10109.discord.media = 104.25.158.178
-finland10110.discord.media = 104.25.158.178
-finland10111.discord.media = 104.25.158.178
-finland10112.discord.media = 104.25.158.178
-finland10113.discord.media = 104.25.158.178
-finland10114.discord.media = 104.25.158.178
-finland10115.discord.media = 104.25.158.178
-finland10116.discord.media = 104.25.158.178
-finland10117.discord.media = 104.25.158.178
-finland10118.discord.media = 104.25.158.178
-finland10119.discord.media = 104.25.158.178
-finland10120.discord.media = 104.25.158.178
-finland10121.discord.media = 104.25.158.178
-finland10122.discord.media = 104.25.158.178
-finland10123.discord.media = 104.25.158.178
-finland10124.discord.media = 104.25.158.178
-finland10125.discord.media = 104.25.158.178
-finland10126.discord.media = 104.25.158.178
-finland10127.discord.media = 104.25.158.178
-finland10128.discord.media = 104.25.158.178
-finland10129.discord.media = 104.25.158.178
-finland10130.discord.media = 104.25.158.178
-finland10131.discord.media = 104.25.158.178
-finland10132.discord.media = 104.25.158.178
-finland10133.discord.media = 104.25.158.178
-finland10134.discord.media = 104.25.158.178
-finland10135.discord.media = 104.25.158.178
-finland10136.discord.media = 104.25.158.178
-finland10137.discord.media = 104.25.158.178
-finland10138.discord.media = 104.25.158.178
-finland10139.discord.media = 104.25.158.178
-finland10140.discord.media = 104.25.158.178
-finland10141.discord.media = 104.25.158.178
-finland10142.discord.media = 104.25.158.178
-finland10143.discord.media = 104.25.158.178
-finland10144.discord.media = 104.25.158.178
-finland10145.discord.media = 104.25.158.178
-finland10146.discord.media = 104.25.158.178
-finland10147.discord.media = 104.25.158.178
-finland10148.discord.media = 104.25.158.178
-finland10149.discord.media = 104.25.158.178
-finland10150.discord.media = 104.25.158.178
-finland10151.discord.media = 104.25.158.178
-finland10152.discord.media = 104.25.158.178
-finland10153.discord.media = 104.25.158.178
-finland10154.discord.media = 104.25.158.178
-finland10155.discord.media = 104.25.158.178
-finland10156.discord.media = 104.25.158.178
-finland10157.discord.media = 104.25.158.178
-finland10158.discord.media = 104.25.158.178
-finland10159.discord.media = 104.25.158.178
-finland10160.discord.media = 104.25.158.178
-finland10161.discord.media = 104.25.158.178
-finland10162.discord.media = 104.25.158.178
-finland10163.discord.media = 104.25.158.178
-finland10164.discord.media = 104.25.158.178
-finland10165.discord.media = 104.25.158.178
-finland10166.discord.media = 104.25.158.178
-finland10167.discord.media = 104.25.158.178
-finland10168.discord.media = 104.25.158.178
-finland10169.discord.media = 104.25.158.178
-finland10170.discord.media = 104.25.158.178
-finland10171.discord.media = 104.25.158.178
-finland10172.discord.media = 104.25.158.178
-finland10173.discord.media = 104.25.158.178
-finland10174.discord.media = 104.25.158.178
-finland10175.discord.media = 104.25.158.178
-finland10176.discord.media = 104.25.158.178
-finland10177.discord.media = 104.25.158.178
-finland10178.discord.media = 104.25.158.178
-finland10179.discord.media = 104.25.158.178
-finland10180.discord.media = 104.25.158.178
-finland10181.discord.media = 104.25.158.178
-finland10182.discord.media = 104.25.158.178
-finland10183.discord.media = 104.25.158.178
-finland10184.discord.media = 104.25.158.178
-finland10185.discord.media = 104.25.158.178
-finland10186.discord.media = 104.25.158.178
-finland10187.discord.media = 104.25.158.178
-finland10188.discord.media = 104.25.158.178
-finland10189.discord.media = 104.25.158.178
-finland10190.discord.media = 104.25.158.178
-finland10191.discord.media = 104.25.158.178
-finland10192.discord.media = 104.25.158.178
-finland10193.discord.media = 104.25.158.178
-finland10194.discord.media = 104.25.158.178
-finland10195.discord.media = 104.25.158.178
-finland10196.discord.media = 104.25.158.178
-finland10197.discord.media = 104.25.158.178
-finland10198.discord.media = 104.25.158.178
-finland10199.discord.media = 104.25.158.178
+# ZeroSSL
+
+app.zerossl.com = 193.233.112.68
+
+# Остальное
+
+api.cdnlibs.org = 193.233.112.88
+builds.parsec.app = 193.233.112.68
+platform.parallel.ai = 193.233.112.68
+api.home-connect.com = 193.233.112.88
+api.radarr.video = 193.233.112.88
+astockcdn.net = 193.233.112.88
+www.astockcdn.net = 193.233.112.68
+aybest.xyz = 193.233.112.88
+www.aybest.xyz = 193.233.112.68
+behance.net = 193.233.112.88
+www.behance.net = 193.233.112.68
+blogs.sap.com = 193.233.112.68
+buf.build = 193.233.112.88
+www.buf.build = 193.233.112.68
+bumble.com = 193.233.112.68
+www.bumble.com = 193.233.112.88
+buymeacoffee.com = 193.233.112.68
+www.buymeacoffee.com = 193.233.112.88
+cdn.web-platform.io = 193.233.112.88
+ciscobinary.openh264.org = 193.233.112.68
+cms-images.mmst.eu = 193.233.112.88
+community.sap.com = 193.233.112.68
+consent.trustarc.com = 193.233.112.88
+console.neon.tech = 193.233.112.88
+deniko.xyz = 193.233.112.88
+www.deniko.xyz = 193.233.112.68
+designify.com = 193.233.112.88
+www.designify.com = 193.233.112.68
+dnsspeedtest.online = 193.233.112.88
+www.dnsspeedtest.online = 193.233.112.68
+dr.miromind.ai = 193.233.112.88
+dtm8.dinamicagenerale.com = 193.233.112.88
+ecosia.org = 193.233.112.68
+www.ecosia.org = 193.233.112.88
+efsanetv.xyz = 193.233.112.88
+www.efsanetv.xyz = 193.233.112.68
+elmastvnet.xyz = 193.233.112.68
+www.elmastvnet.xyz = 193.233.112.88
+eneba.com = 193.233.112.68
+www.eneba.com = 193.233.112.88
+etsy.com = 193.233.112.68
+www.etsy.com = 193.233.112.88
+euro.com.pl = 193.233.112.68
+www.euro.com.pl = 193.233.112.88
+evike.com = 193.233.112.88
+www.evike.com = 193.233.112.68
+eyyo.xyz = 193.233.112.88
+www.eyyo.xyz = 193.233.112.68
+f00.esfr.pl = 193.233.112.68
+files-s2pb.pbsync.com = 193.233.112.88
+g2a.com = 193.233.112.88
+www.g2a.com = 193.233.112.68
+gamestop.com = 193.233.112.88
+www.gamestop.com = 193.233.112.68
+hapi.hentaicdn.org = 193.233.112.68
+images.contentstack.io = 193.233.112.88
+indeed.com = 193.233.112.68
+www.indeed.com = 193.233.112.88
+iperf3serverlist.net = 193.233.112.88
+www.iperf3serverlist.net = 193.233.112.68
+linguee.com = 193.233.112.68
+www.linguee.com = 193.233.112.88
+m3u.in = 193.233.112.68
+www.m3u.in = 193.233.112.88
+madmapper.com = 193.233.112.68
+www.madmapper.com = 193.233.112.88
+malwarebytes.com = 193.233.112.88
+www.malwarebytes.com = 193.233.112.68
+manybooks.net = 193.233.112.68
+www.manybooks.net = 193.233.112.88
+mediaexpert.pl = 193.233.112.68
+www.mediaexpert.pl = 193.233.112.88
+mediamarkt.pl = 193.233.112.88
+www.mediamarkt.pl = 193.233.112.68
+minicircuits.com = 193.233.112.68
+www.minicircuits.com = 193.233.112.88
+misterfpga.org = 193.233.112.68
+www.misterfpga.org = 193.233.112.88
+mouser.com = 193.233.112.68
+www.mouser.com = 193.233.112.88
+n8n.cloud = 193.233.112.88
+www.n8n.cloud = 193.233.112.68
+naukimg.com = 193.233.112.88
+ndi.tv = 193.233.112.88
+www.ndi.tv = 193.233.112.68
+ndi.video = 193.233.112.68
+www.ndi.video = 193.233.112.88
+netapp.com = 193.233.112.88
+www.netapp.com = 193.233.112.68
+octanorm.com = 193.233.112.68
+www.octanorm.com = 193.233.112.88
+octanorm.expo.shop = 193.233.112.88
+padi.com = 193.233.112.88
+www.padi.com = 193.233.112.68
+pandasecurity.com = 193.233.112.88
+www.pandasecurity.com = 193.233.112.68
+panic.com = 193.233.112.68
+www.panic.com = 193.233.112.88
+pcmag.com = 193.233.112.88
+www.pcmag.com = 193.233.112.68
+pi.ai = 193.233.112.88
+www.pi.ai = 193.233.112.68
+play.date = 193.233.112.68
+www.play.date = 193.233.112.88
+powertoolsuk.co.uk = 193.233.112.68
+www.powertoolsuk.co.uk = 193.233.112.88
+ppkas.com = 193.233.112.68
+www.ppkas.com = 193.233.112.88
+pr0gramm.com = 193.233.112.88
+www.pr0gramm.com = 193.233.112.68
+promods.net = 193.233.112.88
+www.promods.net = 193.233.112.68
+prowlarr.servarr.com = 193.233.112.88
+remove.bg = 193.233.112.88
+www.remove.bg = 193.233.112.68
+res.cloudinary.com = 193.233.112.88
+romsgames.net = 193.233.112.88
+www.romsgames.net = 193.233.112.68
+se.com = 193.233.112.88
+www.se.com = 193.233.112.68
+securitytrails.com = 193.233.112.68
+www.securitytrails.com = 193.233.112.88
+singlekey-id.com = 193.233.112.68
+www.singlekey-id.com = 193.233.112.88
+slack.com = 193.233.112.88
+www.slack.com = 193.233.112.68
+slackb.com = 193.233.112.88
+www.slackb.com = 193.233.112.68
+squareup.com = 193.233.112.88
+www.squareup.com = 193.233.112.68
+superpharm.eu = 193.233.112.88
+www.superpharm.eu = 193.233.112.68
+superpharm.pl = 193.233.112.88
+www.superpharm.pl = 193.233.112.68
+ti.com = 193.233.112.68
+www.ti.com = 193.233.112.88
+trimble.com = 193.233.112.68
+www.trimble.com = 193.233.112.88
+trueachievements.com = 193.233.112.88
+www.trueachievements.com = 193.233.112.68
+uainvest.com.ua = 193.233.112.68
+www.uainvest.com.ua = 193.233.112.88
+ultimaker.com = 193.233.112.88
+www.ultimaker.com = 193.233.112.68
+unscreen.com = 193.233.112.68
+www.unscreen.com = 193.233.112.88
+vipvera.com = 193.233.112.68
+www.vipvera.com = 193.233.112.88
+wbagora.com = 193.233.112.68
+www.wbagora.com = 193.233.112.88
+wbgames.com = 193.233.112.88
+www.wbgames.com = 193.233.112.68
+weborama.nl = 193.233.112.68
+www.weborama.nl = 193.233.112.88
+whimsical.com = 193.233.112.68
+www.whimsical.com = 193.233.112.88
+windguru.cz = 193.233.112.68
+www.windguru.cz = 193.233.112.88
+wise.com = 193.233.112.88
+www.wise.com = 193.233.112.68
+www.cgtrader.com = 193.233.112.68
+xiaomi.eu = 193.233.112.88
+www.xiaomi.eu = 193.233.112.68
+yeggi.com = 193.233.112.68
+www.yeggi.com = 193.233.112.88
+yupp.ai = 193.233.112.68
+www.yupp.ai = 193.233.112.88
+zapier-deployment.com = 193.233.112.68
+www.zapier-deployment.com = 193.233.112.88
+zapier.com = 193.233.112.68
+www.zapier.com = 193.233.112.88
+freakhosting.com = 193.233.112.68
+www.freakhosting.com = 193.233.112.88
+www.microcenter.com = 193.233.112.88
+microcenter.com = 193.233.112.68
