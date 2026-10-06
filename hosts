@@ -1,7 +1,7 @@
 #!name=Hosts4IOS-geohide
 #!desc=Hosts file for unlocking and rejecting any kind trackers adopted for SR on IOS
 [Host]
-# Last Update: 11 September 2026
+# Last Update: 06 October 2026
 # Bypass
 localhost = 127.0.0.1
 ip6-localhost = ::1
@@ -201,6 +201,8 @@ s-cdn.anthropic.com = 193.233.112.68
 statsig.anthropic.com = 193.233.112.68
 status.anthropic.com = 193.233.112.88
 support.anthropic.com = 193.233.112.68
+claudeusercontent.com = 193.233.112.88
+www.claudeusercontent.com = 193.233.112.68
 
 # Clickup
 clickup.com = 193.233.112.68
@@ -437,6 +439,9 @@ stitch.withgoogle.com = 193.233.112.88
 suggestqueries.google.com = 193.233.112.68
 waa-pa.clients6.google.com = 193.233.112.88
 webchannel-alkalimakersuite-pa.clients6.google.com = 193.233.112.68
+aicode.googleapis.com = 193.233.112.88
+geminiweb-pa.clients.google.com = 193.233.112.68
+geminiweb-pa.clients6.google.com = 193.233.112.88
 
 # Grok
 accounts.x.ai = 193.233.112.68
@@ -449,6 +454,10 @@ grok.x.com = 193.233.112.68
 grok.x.ai = 193.233.112.88
 x.ai = 193.233.112.68
 www.x.ai = 193.233.112.88
+
+# Groq
+api.groq.com = 193.233.112.88
+console.groq.com = 193.233.112.88
 
 # Guidedhacking
 guidedhacking.com = 193.233.112.68
@@ -798,6 +807,8 @@ www.notion.so = 193.233.112.68
 
 # Nvidia
 developer.nvidia.com = 193.233.112.68
+build.nvidia.com = 193.233.112.68
+ngc.nvidia.com = 193.233.112.68
 
 # OpenCode AI
 opencode.ai = 193.233.112.88
@@ -898,24 +909,24 @@ tiles.strava.com = 193.233.112.88
 watch.samsung.strava.com = 193.233.112.88
 
 # Stumble Guys
-api.stumbleguys.com = 217.60.245.219
-matchmaking.stumbleguys.com = 217.60.245.219
+api.stumbleguys.com = 2.27.118.34
+matchmaking.stumbleguys.com = 2.27.118.34
 
 # Supercell
 game.brawlstarsgame.com = 62.233.36.83
 game.clashroyaleapp.com = 81.17.20.82
 game.squadbustersgame.com = 81.17.20.84
 gamea.clashofclans.com = 81.17.20.86
-accounts.supercell.com = 217.60.245.233
-cdn.id.supercell.com = 217.60.245.233
-clashofclans.inbox.supercell.com = 217.60.245.219
-game-assets.brawlstarsgame.com = 217.60.245.233
-game-assets.clashofclans.com = 217.60.245.233
-game-assets.clashroyaleapp.com = 217.60.245.219
-game.boombeachgame.com = 217.60.245.219
-game.mocogame.com = 217.60.245.219
-security.id.supercell.com = 217.60.245.219
-store.supercell.com = 217.60.245.219
+accounts.supercell.com = 2.27.118.34
+cdn.id.supercell.com = 2.27.118.34
+clashofclans.inbox.supercell.com = 2.27.118.34
+game-assets.brawlstarsgame.com = 2.27.118.34
+game-assets.clashofclans.com = 2.27.118.34
+game-assets.clashroyaleapp.com = 2.27.118.34
+game.boombeachgame.com = 2.27.118.34
+game.mocogame.com = 2.27.118.34
+security.id.supercell.com = 2.27.118.34
+store.supercell.com = 2.27.118.34
 
 # Tableau
 tableau.com = 193.233.112.88
@@ -1196,3 +1207,12 @@ freakhosting.com = 193.233.112.68
 www.freakhosting.com = 193.233.112.88
 www.microcenter.com = 193.233.112.88
 microcenter.com = 193.233.112.68
+inceptionlabs.ai = 193.233.112.68
+www.inceptionlabs.ai = 193.233.112.88
+old.yummyani.me = 193.233.112.88
+qoder.com = 193.233.112.68
+www.qoder.com = 193.233.112.88
+tokenharbor.ai = 193.233.112.68
+www.tokenharbor.ai = 193.233.112.88
+audacy.com = 193.233.112.68
+www.audacy.com = 193.233.112.88
